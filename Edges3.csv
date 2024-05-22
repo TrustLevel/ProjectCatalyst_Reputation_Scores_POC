@@ -1,0 +1,1977 @@
+Reviewer_ID;Project Title;Feasibility Rating;Rating Accuracy
+z_assessor_2028;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2118;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2233;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2410;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2505;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2552;Innovatio Cross-Chain ADA-AVAX-DOT;4;1
+z_assessor_2786;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2815;Innovatio Cross-Chain ADA-AVAX-DOT;5;1
+z_assessor_2955;Innovatio Cross-Chain ADA-AVAX-DOT;4;1
+z_assessor_4106;Innovatio Cross-Chain ADA-AVAX-DOT;4;1
+z_assessor_2028;Solve asset fractionalization;5;1
+z_assessor_2070;Solve asset fractionalization;5;1
+z_assessor_2222;Solve asset fractionalization;3;0
+z_assessor_2233;Solve asset fractionalization;4;1
+z_assessor_2335;Solve asset fractionalization;5;1
+z_assessor_2394;Solve asset fractionalization;2;0
+z_assessor_2482;Solve asset fractionalization;4;1
+z_assessor_2028;Catalyst SDK dRep support;5;1
+z_assessor_2192;Catalyst SDK dRep support;3;0
+z_assessor_2525;Catalyst SDK dRep support;4;1
+z_assessor_2554;Catalyst SDK dRep support;5;1
+z_assessor_2675;Catalyst SDK dRep support;3;0
+z_assessor_2963;Catalyst SDK dRep support;4;1
+z_assessor_3702;Catalyst SDK dRep support;4;1
+z_assessor_2028;Evescale Devs on Cardano;5;1
+z_assessor_2098;Evescale Devs on Cardano;5;1
+z_assessor_2233;Evescale Devs on Cardano;5;1
+z_assessor_2261;Evescale Devs on Cardano;5;1
+z_assessor_2274;Evescale Devs on Cardano;5;1
+z_assessor_2786;Evescale Devs on Cardano;5;1
+z_assessor_2831;Evescale Devs on Cardano;4;1
+z_assessor_3016;Evescale Devs on Cardano;5;1
+z_assessor_3216;Evescale Devs on Cardano;4;1
+z_assessor_4099;Evescale Devs on Cardano;5;1
+z_assessor_2028;Mentorship Digital Identity DAO;5;1
+z_assessor_2251;Mentorship Digital Identity DAO;5;1
+z_assessor_2259;Mentorship Digital Identity DAO;4;1
+z_assessor_2552;Mentorship Digital Identity DAO;5;1
+z_assessor_3521;Mentorship Digital Identity DAO;5;1
+z_assessor_2028;Secure off-chain community voting;5;1
+z_assessor_2358;Secure off-chain community voting;5;1
+z_assessor_2564;Secure off-chain community voting;4;1
+z_assessor_2664;Secure off-chain community voting;4;1
+z_assessor_2688;Secure off-chain community voting;5;1
+z_assessor_2787;Secure off-chain community voting;5;1
+z_assessor_2826;Secure off-chain community voting;5;1
+z_assessor_3008;Secure off-chain community voting;5;1
+z_assessor_3314;Secure off-chain community voting;5;1
+z_assessor_2028;Community CIP Editor: 1 year budget;5;1
+z_assessor_2222;Community CIP Editor: 1 year budget;5;1
+z_assessor_2292;Community CIP Editor: 1 year budget;5;1
+z_assessor_2671;Community CIP Editor: 1 year budget;5;1
+z_assessor_3187;Community CIP Editor: 1 year budget;5;1
+z_assessor_3237;Community CIP Editor: 1 year budget;5;1
+z_assessor_2031;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2110;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2292;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2322;Ethereum2Cardano Builder Dictionary;3;0
+z_assessor_2352;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2464;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2714;Ethereum2Cardano Builder Dictionary;3;0
+z_assessor_2940;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_2972;Ethereum2Cardano Builder Dictionary;4;1
+z_assessor_3073;Ethereum2Cardano Builder Dictionary;4;1
+z_assessor_3175;Ethereum2Cardano Builder Dictionary;4;1
+z_assessor_3205;Ethereum2Cardano Builder Dictionary;4;1
+z_assessor_3255;Ethereum2Cardano Builder Dictionary;2;0
+z_assessor_3434;Ethereum2Cardano Builder Dictionary;5;1
+z_assessor_4055;Ethereum2Cardano Builder Dictionary;3;0
+z_assessor_4112;Ethereum2Cardano Builder Dictionary;4;1
+z_assessor_2040;subHandles | ADA Handle;5;0
+z_assessor_2073;subHandles | ADA Handle;5;0
+z_assessor_2255;subHandles | ADA Handle;5;0
+z_assessor_2895;subHandles | ADA Handle;5;0
+z_assessor_2956;subHandles | ADA Handle;4;0
+z_assessor_3237;subHandles | ADA Handle;5;0
+z_assessor_3296;subHandles | ADA Handle;5;0
+z_assessor_3472;subHandles | ADA Handle;5;0
+z_assessor_2040;Handle Personalization | ADA Handle;5;1
+z_assessor_2073;Handle Personalization | ADA Handle;5;1
+z_assessor_2076;Handle Personalization | ADA Handle;5;1
+z_assessor_2255;Handle Personalization | ADA Handle;5;1
+z_assessor_2636;Handle Personalization | ADA Handle;5;1
+z_assessor_2883;Handle Personalization | ADA Handle;5;1
+z_assessor_2895;Handle Personalization | ADA Handle;5;1
+z_assessor_3183;Handle Personalization | ADA Handle;5;1
+z_assessor_3264;Handle Personalization | ADA Handle;5;1
+z_assessor_2040;RootsWallet - iPhone version;5;1
+z_assessor_2917;RootsWallet - iPhone version;5;1
+z_assessor_2761;RootsWallet - iPhone version;5;1
+z_assessor_2245;RootsWallet - iPhone version;5;1
+z_assessor_2259;RootsWallet - iPhone version;5;1
+z_assessor_2040;KERI bridge for Cardano;5;1
+z_assessor_2098;KERI bridge for Cardano;5;1
+z_assessor_2233;KERI bridge for Cardano;5;1
+z_assessor_2261;KERI bridge for Cardano;5;1
+z_assessor_2299;KERI bridge for Cardano;5;1
+z_assessor_2663;KERI bridge for Cardano;5;1
+z_assessor_2786;KERI bridge for Cardano;5;1
+z_assessor_2915;KERI bridge for Cardano;5;1
+z_assessor_2040;RootsWallet - User Feedback Updates;5;1
+z_assessor_2047;RootsWallet - User Feedback Updates;4;1
+z_assessor_2323;RootsWallet - User Feedback Updates;5;1
+z_assessor_3426;RootsWallet - User Feedback Updates;5;1
+z_assessor_2255;RootsWallet - User Feedback Updates;5;1
+z_assessor_2040;Discord Social Credential;5;1
+z_assessor_2290;Discord Social Credential;5;1
+z_assessor_2523;Discord Social Credential;5;1
+z_assessor_2636;Discord Social Credential;5;1
+z_assessor_2935;Discord Social Credential;5;1
+z_assessor_3063;Discord Social Credential;5;1
+z_assessor_3189;Discord Social Credential;5;1
+z_assessor_3454;Discord Social Credential;5;1
+z_assessor_2040;WAL-CLI Issue Credential Protocol;5;0
+z_assessor_2299;WAL-CLI Issue Credential Protocol;5;0
+z_assessor_2823;WAL-CLI Issue Credential Protocol;5;0
+z_assessor_2911;WAL-CLI Issue Credential Protocol;4;0
+z_assessor_3879;WAL-CLI Issue Credential Protocol;5;0
+z_assessor_2040;CardanoPress: Governance Plugin;5;1
+z_assessor_2292;CardanoPress: Governance Plugin;3;0
+z_assessor_2299;CardanoPress: Governance Plugin;4;1
+z_assessor_2360;CardanoPress: Governance Plugin;5;1
+z_assessor_2548;CardanoPress: Governance Plugin;5;1
+z_assessor_3521;CardanoPress: Governance Plugin;5;1
+z_assessor_2044;Flutter SDK;5;0
+z_assessor_2123;Flutter SDK;5;0
+z_assessor_2643;Flutter SDK;5;0
+z_assessor_2684;Flutter SDK;5;0
+z_assessor_2781;Flutter SDK;5;0
+z_assessor_2982;Flutter SDK;5;0
+z_assessor_2996;Flutter SDK;4;0
+z_assessor_3008;Flutter SDK;5;0
+z_assessor_2047;MLabs - Embedano (Embedded Devices);5;1
+z_assessor_2299;MLabs - Embedano (Embedded Devices);3;0
+z_assessor_2352;MLabs - Embedano (Embedded Devices);5;1
+z_assessor_2356;MLabs - Embedano (Embedded Devices);5;1
+z_assessor_2622;MLabs - Embedano (Embedded Devices);4;1
+z_assessor_2824;MLabs - Embedano (Embedded Devices);5;1
+z_assessor_2940;MLabs - Embedano (Embedded Devices);4;1
+z_assessor_2989;MLabs - Embedano (Embedded Devices);3;0
+z_assessor_2992;MLabs - Embedano (Embedded Devices);4;1
+z_assessor_2996;MLabs - Embedano (Embedded Devices);5;1
+z_assessor_3246;MLabs - Embedano (Embedded Devices);4;1
+z_assessor_2047;Enable Eternl;4;0
+z_assessor_2138;Enable Eternl;5;0
+z_assessor_2255;Enable Eternl;3;1
+z_assessor_2534;Enable Eternl;4;0
+z_assessor_2636;Enable Eternl;5;0
+z_assessor_2718;Enable Eternl;5;0
+z_assessor_2883;Enable Eternl;3;1
+z_assessor_3183;Enable Eternl;4;0
+z_assessor_3296;Enable Eternl;3;1
+z_assessor_3497;Enable Eternl;5;0
+z_assessor_2047;Liquid staking for Milkomeda / L2s;4;1
+z_assessor_2324;Liquid staking for Milkomeda / L2s;4;1
+z_assessor_2335;Liquid staking for Milkomeda / L2s;5;1
+z_assessor_2482;Liquid staking for Milkomeda / L2s;4;1
+z_assessor_2736;Liquid staking for Milkomeda / L2s;4;1
+z_assessor_2761;Liquid staking for Milkomeda / L2s;5;1
+z_assessor_2047;dcSpark (the company iteslf);3;1
+z_assessor_2073;dcSpark (the company iteslf);5;0
+z_assessor_2148;dcSpark (the company iteslf);1;1
+z_assessor_2324;dcSpark (the company iteslf);2;1
+z_assessor_2335;dcSpark (the company iteslf);3;1
+z_assessor_2358;dcSpark (the company iteslf);1;1
+z_assessor_2482;dcSpark (the company iteslf);3;1
+z_assessor_2736;dcSpark (the company iteslf);4;0
+z_assessor_2795;dcSpark (the company iteslf);3;1
+z_assessor_3514;dcSpark (the company iteslf);4;0
+z_assessor_2047;Fast reindexable data format;4;1
+z_assessor_2169;Fast reindexable data format;2;0
+z_assessor_2324;Fast reindexable data format;4;1
+z_assessor_2335;Fast reindexable data format;4;1
+z_assessor_2544;Fast reindexable data format;3;0
+z_assessor_2684;Fast reindexable data format;5;1
+z_assessor_2893;Fast reindexable data format;3;0
+z_assessor_3068;Fast reindexable data format;3;0
+z_assessor_3241;Fast reindexable data format;4;1
+z_assessor_4072;Fast reindexable data format;2;0
+z_assessor_2047;Carp over-budget + maintenance;3;0
+z_assessor_2123;Carp over-budget + maintenance;2;0
+z_assessor_2169;Carp over-budget + maintenance;2;0
+z_assessor_2324;Carp over-budget + maintenance;3;0
+z_assessor_2332;Carp over-budget + maintenance;5;1
+z_assessor_2335;Carp over-budget + maintenance;4;1
+z_assessor_2482;Carp over-budget + maintenance;4;1
+z_assessor_2980;Carp over-budget + maintenance;2;0
+z_assessor_4072;Carp over-budget + maintenance;3;0
+z_assessor_2047;cip25 (NFT) Rust & WASM library;5;1
+z_assessor_2123;cip25 (NFT) Rust & WASM library;4;1
+z_assessor_2169;cip25 (NFT) Rust & WASM library;4;1
+z_assessor_2290;cip25 (NFT) Rust & WASM library;3;0
+z_assessor_2335;cip25 (NFT) Rust & WASM library;4;1
+z_assessor_2482;cip25 (NFT) Rust & WASM library;5;1
+z_assessor_2684;cip25 (NFT) Rust & WASM library;5;1
+z_assessor_2720;cip25 (NFT) Rust & WASM library;5;1
+z_assessor_2980;cip25 (NFT) Rust & WASM library;1;0
+z_assessor_2047;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_2902;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_3105;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_3237;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_3872;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_3988;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_3996;BLOCKTRUST identity wallet (PRISM);5;1
+z_assessor_2047;DripDropz Cardano Mainstreet Suite;5;0
+z_assessor_2108;DripDropz Cardano Mainstreet Suite;5;0
+z_assessor_2142;DripDropz Cardano Mainstreet Suite;4;0
+z_assessor_2335;DripDropz Cardano Mainstreet Suite;5;0
+z_assessor_3161;DripDropz Cardano Mainstreet Suite;4;0
+z_assessor_2047;MLabs - Cardano Throughput Solution;5;1
+z_assessor_2123;MLabs - Cardano Throughput Solution;5;1
+z_assessor_2280;MLabs - Cardano Throughput Solution;4;1
+z_assessor_2352;MLabs - Cardano Throughput Solution;4;1
+z_assessor_2675;MLabs - Cardano Throughput Solution;5;1
+z_assessor_3314;MLabs - Cardano Throughput Solution;5;1
+z_assessor_2047;Ledger Live Integration #2;5;1
+z_assessor_2060;Ledger Live Integration #2;5;1
+z_assessor_2102;Ledger Live Integration #2;5;1
+z_assessor_2380;Ledger Live Integration #2;5;1
+z_assessor_2745;Ledger Live Integration #2;5;1
+z_assessor_2917;Ledger Live Integration #2;5;1
+z_assessor_2956;Ledger Live Integration #2;4;1
+z_assessor_2980;Ledger Live Integration #2;4;1
+z_assessor_3289;Ledger Live Integration #2;5;1
+z_assessor_4073;Ledger Live Integration #2;4;1
+z_assessor_2060;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2215;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2217;AI lawyer on Cardano - Profila/HSLU;4;1
+z_assessor_2274;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2352;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2711;AI lawyer on Cardano - Profila/HSLU;4;1
+z_assessor_2824;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2856;AI lawyer on Cardano - Profila/HSLU;4;1
+z_assessor_2879;AI lawyer on Cardano - Profila/HSLU;4;1
+z_assessor_2902;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_2924;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_3008;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_3016;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_3046;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_3188;AI lawyer on Cardano - Profila/HSLU;4;1
+z_assessor_3319;AI lawyer on Cardano - Profila/HSLU;5;1
+z_assessor_4075;AI lawyer on Cardano - Profila/HSLU;3;0
+z_assessor_2060;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2186;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2222;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2256;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2292;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2312;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2464;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_2580;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_2616;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2713;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_2714;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2847;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_2911;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_2924;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_3187;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_3250;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_3265;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_3320;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_3521;Ethereum and Cardano Web3 Wallet;4;1
+z_assessor_4009;Ethereum and Cardano Web3 Wallet;5;1
+z_assessor_4106;Ethereum and Cardano Web3 Wallet;3;0
+z_assessor_2061;CNFT Community in Asian Community;3;0
+z_assessor_2217;CNFT Community in Asian Community;5;1
+z_assessor_2489;CNFT Community in Asian Community;5;1
+z_assessor_2513;CNFT Community in Asian Community;4;1
+z_assessor_2751;CNFT Community in Asian Community;5;1
+z_assessor_2771;CNFT Community in Asian Community;5;1
+z_assessor_3156;CNFT Community in Asian Community;5;1
+z_assessor_3198;CNFT Community in Asian Community;5;1
+z_assessor_3235;CNFT Community in Asian Community;5;1
+z_assessor_3270;CNFT Community in Asian Community;4;1
+z_assessor_3353;CNFT Community in Asian Community;4;1
+z_assessor_3449;CNFT Community in Asian Community;5;1
+z_assessor_3494;CNFT Community in Asian Community;4;1
+z_assessor_3616;CNFT Community in Asian Community;5;1
+z_assessor_3870;CNFT Community in Asian Community;5;1
+z_assessor_2061;Quality Assurance of Organic Foods;3;1
+z_assessor_2503;Quality Assurance of Organic Foods;3;1
+z_assessor_2663;Quality Assurance of Organic Foods;4;0
+z_assessor_2771;Quality Assurance of Organic Foods;5;0
+z_assessor_3046;Quality Assurance of Organic Foods;3;1
+z_assessor_3270;Quality Assurance of Organic Foods;3;1
+z_assessor_3281;Quality Assurance of Organic Foods;3;1
+z_assessor_2061;Japanese Traditional Crafts NFT;3;0
+z_assessor_2517;Japanese Traditional Crafts NFT;4;1
+z_assessor_2578;Japanese Traditional Crafts NFT;5;1
+z_assessor_2771;Japanese Traditional Crafts NFT;5;1
+z_assessor_3046;Japanese Traditional Crafts NFT;3;0
+z_assessor_3170;Japanese Traditional Crafts NFT;4;1
+z_assessor_3241;Japanese Traditional Crafts NFT;4;1
+z_assessor_3425;Japanese Traditional Crafts NFT;4;1
+z_assessor_3445;Japanese Traditional Crafts NFT;3;0
+z_assessor_3870;Japanese Traditional Crafts NFT;5;1
+z_assessor_2073;Cardano NFT Gaming - Lovelace Saga!;4;1
+z_assessor_2274;Cardano NFT Gaming - Lovelace Saga!;3;0
+z_assessor_2956;Cardano NFT Gaming - Lovelace Saga!;4;1
+z_assessor_3231;Cardano NFT Gaming - Lovelace Saga!;3;0
+z_assessor_3445;Cardano NFT Gaming - Lovelace Saga!;5;1
+z_assessor_3650;Cardano NFT Gaming - Lovelace Saga!;5;1
+z_assessor_3691;Cardano NFT Gaming - Lovelace Saga!;4;1
+z_assessor_2073;ADAO- NFT Fractionalization Dapp;5;1
+z_assessor_2237;ADAO- NFT Fractionalization Dapp;4;1
+z_assessor_2695;ADAO- NFT Fractionalization Dapp;4;1
+z_assessor_2945;ADAO- NFT Fractionalization Dapp;4;1
+z_assessor_2980;ADAO- NFT Fractionalization Dapp;4;1
+z_assessor_4045;ADAO- NFT Fractionalization Dapp;4;1
+z_assessor_2073;Poolpeek Stake Pool Pledge Tracker;4;0
+z_assessor_2129;Poolpeek Stake Pool Pledge Tracker;5;0
+z_assessor_2335;Poolpeek Stake Pool Pledge Tracker;5;0
+z_assessor_2496;Poolpeek Stake Pool Pledge Tracker;5;0
+z_assessor_2525;Poolpeek Stake Pool Pledge Tracker;4;0
+z_assessor_2817;Poolpeek Stake Pool Pledge Tracker;5;0
+z_assessor_3872;Poolpeek Stake Pool Pledge Tracker;3;1
+z_assessor_2073;Decentralized Social Intelligence;5;1
+z_assessor_2257;Decentralized Social Intelligence;4;1
+z_assessor_2845;Decentralized Social Intelligence;4;1
+z_assessor_2848;Decentralized Social Intelligence;5;1
+z_assessor_3013;Decentralized Social Intelligence;4;1
+z_assessor_2088;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2194;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2458;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2461;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2552;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2702;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2749;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2822;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2830;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2831;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2890;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2908;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_2919;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2927;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2933;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3046;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3093;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3106;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3123;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3140;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3160;Ghana Youth Onboarding Outreach 2;3;0
+z_assessor_3193;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3216;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3256;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3260;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3262;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3344;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3352;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3406;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3472;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3489;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3495;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3521;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3555;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3619;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3648;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3696;Ghana Youth Onboarding Outreach 2;4;1
+z_assessor_3759;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_3833;Ghana Youth Onboarding Outreach 2;5;1
+z_assessor_2088;Swahili Learn to Earn;4;1
+z_assessor_2259;Swahili Learn to Earn;5;1
+z_assessor_2458;Swahili Learn to Earn;5;1
+z_assessor_2513;Swahili Learn to Earn;5;1
+z_assessor_2552;Swahili Learn to Earn;4;1
+z_assessor_2678;Swahili Learn to Earn;5;1
+z_assessor_2786;Swahili Learn to Earn;5;1
+z_assessor_3216;Swahili Learn to Earn;5;1
+z_assessor_3235;Swahili Learn to Earn;5;1
+z_assessor_3833;Swahili Learn to Earn;5;1
+z_assessor_3840;Swahili Learn to Earn;5;1
+z_assessor_4010;Swahili Learn to Earn;4;1
+z_assessor_4093;Swahili Learn to Earn;4;1
+z_assessor_2088;Nurturing Roots in Africa;4;1
+z_assessor_2127;Nurturing Roots in Africa;5;1
+z_assessor_2232;Nurturing Roots in Africa;4;1
+z_assessor_2409;Nurturing Roots in Africa;5;1
+z_assessor_2458;Nurturing Roots in Africa;5;1
+z_assessor_2513;Nurturing Roots in Africa;5;1
+z_assessor_2539;Nurturing Roots in Africa;4;1
+z_assessor_2644;Nurturing Roots in Africa;5;1
+z_assessor_2671;Nurturing Roots in Africa;5;1
+z_assessor_2681;Nurturing Roots in Africa;4;1
+z_assessor_2704;Nurturing Roots in Africa;5;1
+z_assessor_2722;Nurturing Roots in Africa;5;1
+z_assessor_2749;Nurturing Roots in Africa;4;1
+z_assessor_2754;Nurturing Roots in Africa;5;1
+z_assessor_2822;Nurturing Roots in Africa;4;1
+z_assessor_2886;Nurturing Roots in Africa;5;1
+z_assessor_2895;Nurturing Roots in Africa;5;1
+z_assessor_2908;Nurturing Roots in Africa;5;1
+z_assessor_2968;Nurturing Roots in Africa;4;1
+z_assessor_2971;Nurturing Roots in Africa;4;1
+z_assessor_3027;Nurturing Roots in Africa;5;1
+z_assessor_3067;Nurturing Roots in Africa;5;1
+z_assessor_3193;Nurturing Roots in Africa;5;1
+z_assessor_3260;Nurturing Roots in Africa;5;1
+z_assessor_3262;Nurturing Roots in Africa;5;1
+z_assessor_3264;Nurturing Roots in Africa;5;1
+z_assessor_3265;Nurturing Roots in Africa;5;1
+z_assessor_3356;Nurturing Roots in Africa;5;1
+z_assessor_3401;Nurturing Roots in Africa;4;1
+z_assessor_3696;Nurturing Roots in Africa;5;1
+z_assessor_3759;Nurturing Roots in Africa;4;1
+z_assessor_3833;Nurturing Roots in Africa;5;1
+z_assessor_4001;Nurturing Roots in Africa;5;1
+z_assessor_2088;Boosting Cardano In South Africa;5;1
+z_assessor_2299;Boosting Cardano In South Africa;5;1
+z_assessor_2458;Boosting Cardano In South Africa;4;1
+z_assessor_2489;Boosting Cardano In South Africa;4;1
+z_assessor_2513;Boosting Cardano In South Africa;5;1
+z_assessor_2518;Boosting Cardano In South Africa;5;1
+z_assessor_2822;Boosting Cardano In South Africa;3;0
+z_assessor_2890;Boosting Cardano In South Africa;5;1
+z_assessor_2933;Boosting Cardano In South Africa;5;1
+z_assessor_2985;Boosting Cardano In South Africa;4;1
+z_assessor_3008;Boosting Cardano In South Africa;5;1
+z_assessor_3123;Boosting Cardano In South Africa;5;1
+z_assessor_3235;Boosting Cardano In South Africa;4;1
+z_assessor_3264;Boosting Cardano In South Africa;5;1
+z_assessor_3438;Boosting Cardano In South Africa;5;1
+z_assessor_3489;Boosting Cardano In South Africa;5;1
+z_assessor_3490;Boosting Cardano In South Africa;3;0
+z_assessor_3521;Boosting Cardano In South Africa;4;1
+z_assessor_3696;Boosting Cardano In South Africa;5;1
+z_assessor_3787;Boosting Cardano In South Africa;5;1
+z_assessor_3833;Boosting Cardano In South Africa;5;1
+z_assessor_2088;Catalyst Campus Train;4;1
+z_assessor_2476;Catalyst Campus Train;5;1
+z_assessor_2786;Catalyst Campus Train;5;1
+z_assessor_2822;Catalyst Campus Train;4;1
+z_assessor_2890;Catalyst Campus Train;5;1
+z_assessor_2908;Catalyst Campus Train;5;1
+z_assessor_2927;Catalyst Campus Train;5;1
+z_assessor_3052;Catalyst Campus Train;5;1
+z_assessor_3109;Catalyst Campus Train;5;1
+z_assessor_3123;Catalyst Campus Train;5;1
+z_assessor_3232;Catalyst Campus Train;5;1
+z_assessor_3260;Catalyst Campus Train;5;1
+z_assessor_3264;Catalyst Campus Train;5;1
+z_assessor_3528;Catalyst Campus Train;5;1
+z_assessor_3648;Catalyst Campus Train;5;1
+z_assessor_3696;Catalyst Campus Train;5;1
+z_assessor_3833;Catalyst Campus Train;5;1
+z_assessor_3989;Catalyst Campus Train;5;1
+z_assessor_2088;Cardano Youth Ambassadors;5;1
+z_assessor_2458;Cardano Youth Ambassadors;5;1
+z_assessor_2669;Cardano Youth Ambassadors;5;1
+z_assessor_2786;Cardano Youth Ambassadors;5;1
+z_assessor_2908;Cardano Youth Ambassadors;5;1
+z_assessor_2930;Cardano Youth Ambassadors;5;1
+z_assessor_2982;Cardano Youth Ambassadors;5;1
+z_assessor_3008;Cardano Youth Ambassadors;5;1
+z_assessor_3243;Cardano Youth Ambassadors;5;1
+z_assessor_3265;Cardano Youth Ambassadors;5;1
+z_assessor_3833;Cardano Youth Ambassadors;5;1
+z_assessor_2093;DADF - Disruptive Comm. Application;3;0
+z_assessor_2108;DADF - Disruptive Comm. Application;4;1
+z_assessor_2129;DADF - Disruptive Comm. Application;5;1
+z_assessor_2299;DADF - Disruptive Comm. Application;2;0
+z_assessor_2352;DADF - Disruptive Comm. Application;3;0
+z_assessor_2720;DADF - Disruptive Comm. Application;4;1
+z_assessor_2736;DADF - Disruptive Comm. Application;4;1
+z_assessor_2911;DADF - Disruptive Comm. Application;4;1
+z_assessor_3255;DADF - Disruptive Comm. Application;2;0
+z_assessor_2098;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2174;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2222;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2233;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2261;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2636;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2781;Cardano SSI Contributors - Season 2;5;1
+z_assessor_2098;Unreal Engine Integration;5;0
+z_assessor_2146;Unreal Engine Integration;5;0
+z_assessor_2284;Unreal Engine Integration;4;0
+z_assessor_2513;Unreal Engine Integration;4;0
+z_assessor_2855;Unreal Engine Integration;5;0
+z_assessor_3045;Unreal Engine Integration;5;0
+z_assessor_3205;Unreal Engine Integration;5;0
+z_assessor_2098;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_2461;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_2714;NFT Game Marketplace Cross-Chain;4;0
+z_assessor_2786;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_2893;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_2974;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_3023;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_3144;NFT Game Marketplace Cross-Chain;4;0
+z_assessor_3182;NFT Game Marketplace Cross-Chain;4;0
+z_assessor_4100;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_4101;NFT Game Marketplace Cross-Chain;5;0
+z_assessor_2098;Global Compliance 200+ Jurisdiction;5;0
+z_assessor_2215;Global Compliance 200+ Jurisdiction;5;0
+z_assessor_2636;Global Compliance 200+ Jurisdiction;5;0
+z_assessor_2824;Global Compliance 200+ Jurisdiction;4;0
+z_assessor_2879;Global Compliance 200+ Jurisdiction;3;1
+z_assessor_2979;Global Compliance 200+ Jurisdiction;4;0
+z_assessor_3016;Global Compliance 200+ Jurisdiction;5;0
+z_assessor_3405;Global Compliance 200+ Jurisdiction;4;0
+z_assessor_2108;Community Cyber Security Support;5;1
+z_assessor_2817;Community Cyber Security Support;3;0
+z_assessor_2824;Community Cyber Security Support;4;1
+z_assessor_2335;Community Cyber Security Support;3;0
+z_assessor_2336;Community Cyber Security Support;3;0
+z_assessor_2108;Underprivileged DREPS Campaigning;5;0
+z_assessor_2343;Underprivileged DREPS Campaigning;5;0
+z_assessor_2504;Underprivileged DREPS Campaigning;5;0
+z_assessor_2636;Underprivileged DREPS Campaigning;5;0
+z_assessor_3365;Underprivileged DREPS Campaigning;5;0
+z_assessor_3521;Underprivileged DREPS Campaigning;5;0
+z_assessor_2108;AdaPulse: Independent Media Outlet;5;0
+z_assessor_2358;AdaPulse: Independent Media Outlet;5;0
+z_assessor_2795;AdaPulse: Independent Media Outlet;4;0
+z_assessor_3004;AdaPulse: Independent Media Outlet;5;0
+z_assessor_3308;AdaPulse: Independent Media Outlet;5;0
+z_assessor_3319;AdaPulse: Independent Media Outlet;5;0
+z_assessor_3402;AdaPulse: Independent Media Outlet;3;1
+z_assessor_3472;AdaPulse: Independent Media Outlet;5;0
+z_assessor_2108;DripDropz Open Source Voting Tool;5;1
+z_assessor_2142;DripDropz Open Source Voting Tool;5;1
+z_assessor_2482;DripDropz Open Source Voting Tool;5;1
+z_assessor_2636;DripDropz Open Source Voting Tool;5;1
+z_assessor_2688;DripDropz Open Source Voting Tool;5;1
+z_assessor_2795;DripDropz Open Source Voting Tool;4;1
+z_assessor_2817;DripDropz Open Source Voting Tool;5;1
+z_assessor_2824;DripDropz Open Source Voting Tool;4;1
+z_assessor_2883;DripDropz Open Source Voting Tool;5;1
+z_assessor_2907;DripDropz Open Source Voting Tool;5;1
+z_assessor_3160;DripDropz Open Source Voting Tool;3;0
+z_assessor_3472;DripDropz Open Source Voting Tool;5;1
+z_assessor_2108;Adosia Marketplace Updates;5;1
+z_assessor_2142;Adosia Marketplace Updates;4;1
+z_assessor_2795;Adosia Marketplace Updates;4;1
+z_assessor_3170;Adosia Marketplace Updates;4;1
+z_assessor_3183;Adosia Marketplace Updates;5;1
+z_assessor_2108;Fracada Addressing Audit;5;1
+z_assessor_2335;Fracada Addressing Audit;4;1
+z_assessor_2359;Fracada Addressing Audit;5;1
+z_assessor_2826;Fracada Addressing Audit;4;1
+z_assessor_3144;Fracada Addressing Audit;5;1
+z_assessor_3702;Fracada Addressing Audit;4;1
+z_assessor_3865;Fracada Addressing Audit;2;0
+z_assessor_2108;Tribal DIDs=Indigenous Sovereignty;5;0
+z_assessor_3237;Tribal DIDs=Indigenous Sovereignty;5;0
+z_assessor_3742;Tribal DIDs=Indigenous Sovereignty;5;0
+z_assessor_2299;Tribal DIDs=Indigenous Sovereignty;5;0
+z_assessor_2180;Tribal DIDs=Indigenous Sovereignty;5;0
+z_assessor_2110;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2222;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2292;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2352;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2397;ETH NFT Artists->Cardano workshops;4;0
+z_assessor_2464;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2714;ETH NFT Artists->Cardano workshops;3;1
+z_assessor_2745;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2856;ETH NFT Artists->Cardano workshops;4;0
+z_assessor_2886;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_2911;ETH NFT Artists->Cardano workshops;4;0
+z_assessor_2996;ETH NFT Artists->Cardano workshops;4;0
+z_assessor_3187;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_3255;ETH NFT Artists->Cardano workshops;3;1
+z_assessor_3312;ETH NFT Artists->Cardano workshops;4;0
+z_assessor_3319;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_3357;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_3472;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_3616;ETH NFT Artists->Cardano workshops;5;0
+z_assessor_4079;ETH NFT Artists->Cardano workshops;3;1
+z_assessor_2110;Onboard New Hispanic Ethereum Users;4;1
+z_assessor_2209;Onboard New Hispanic Ethereum Users;5;1
+z_assessor_2786;Onboard New Hispanic Ethereum Users;5;1
+z_assessor_2815;Onboard New Hispanic Ethereum Users;4;1
+z_assessor_2259;Onboard New Hispanic Ethereum Users;5;1
+z_assessor_2113;Catalyst Swarm DAO Tools;3;0
+z_assessor_2257;Catalyst Swarm DAO Tools;5;1
+z_assessor_2292;Catalyst Swarm DAO Tools;5;1
+z_assessor_2358;Catalyst Swarm DAO Tools;4;1
+z_assessor_2670;Catalyst Swarm DAO Tools;5;1
+z_assessor_2817;Catalyst Swarm DAO Tools;5;1
+z_assessor_2895;Catalyst Swarm DAO Tools;5;1
+z_assessor_2902;Catalyst Swarm DAO Tools;5;1
+z_assessor_3241;Catalyst Swarm DAO Tools;5;1
+z_assessor_3820;Catalyst Swarm DAO Tools;5;1
+z_assessor_3844;Catalyst Swarm DAO Tools;5;1
+z_assessor_2113;Voteaire Escrow Smart Contract;4;1
+z_assessor_2307;Voteaire Escrow Smart Contract;3;0
+z_assessor_2394;Voteaire Escrow Smart Contract;2;0
+z_assessor_2436;Voteaire Escrow Smart Contract;4;1
+z_assessor_2695;Voteaire Escrow Smart Contract;4;1
+z_assessor_2893;Voteaire Escrow Smart Contract;5;1
+z_assessor_3160;Voteaire Escrow Smart Contract;3;0
+z_assessor_2114;MLabs - Plutarch v2;5;1
+z_assessor_2352;MLabs - Plutarch v2;4;1
+z_assessor_2356;MLabs - Plutarch v2;5;1
+z_assessor_2463;MLabs - Plutarch v2;5;1
+z_assessor_2675;MLabs - Plutarch v2;5;1
+z_assessor_2811;MLabs - Plutarch v2;5;1
+z_assessor_2940;MLabs - Plutarch v2;5;1
+z_assessor_2996;MLabs - Plutarch v2;5;1
+z_assessor_3158;MLabs - Plutarch v2;4;1
+z_assessor_3181;MLabs - Plutarch v2;3;0
+z_assessor_2114;MLabs - Apropos for Property Tests;5;1
+z_assessor_2352;MLabs - Apropos for Property Tests;4;1
+z_assessor_2675;MLabs - Apropos for Property Tests;5;1
+z_assessor_2940;MLabs - Apropos for Property Tests;5;1
+z_assessor_2996;MLabs - Apropos for Property Tests;4;1
+z_assessor_3205;MLabs - Apropos for Property Tests;4;1
+z_assessor_3279;MLabs - Apropos for Property Tests;5;1
+z_assessor_2114;Rust SDK fix critical CBOR encoding;4;1
+z_assessor_2169;Rust SDK fix critical CBOR encoding;4;1
+z_assessor_2335;Rust SDK fix critical CBOR encoding;5;1
+z_assessor_2482;Rust SDK fix critical CBOR encoding;5;1
+z_assessor_2684;Rust SDK fix critical CBOR encoding;4;1
+z_assessor_3255;Rust SDK fix critical CBOR encoding;3;0
+z_assessor_2114;MLabs - Dev Documentation Drive;4;1
+z_assessor_2123;MLabs - Dev Documentation Drive;4;1
+z_assessor_2280;MLabs - Dev Documentation Drive;4;1
+z_assessor_2564;MLabs - Dev Documentation Drive;5;1
+z_assessor_2675;MLabs - Dev Documentation Drive;5;1
+z_assessor_2757;MLabs - Dev Documentation Drive;4;1
+z_assessor_3068;MLabs - Dev Documentation Drive;4;1
+z_assessor_3296;MLabs - Dev Documentation Drive;3;0
+z_assessor_3319;MLabs - Dev Documentation Drive;5;1
+z_assessor_2123;RootsId Verifiable Credential;5;1
+z_assessor_2463;RootsId Verifiable Credential;5;1
+z_assessor_2636;RootsId Verifiable Credential;5;1
+z_assessor_3105;RootsId Verifiable Credential;5;1
+z_assessor_3205;RootsId Verifiable Credential;5;1
+z_assessor_2123;Transaction Editor Hardware wallet;4;1
+z_assessor_2169;Transaction Editor Hardware wallet;5;1
+z_assessor_2222;Transaction Editor Hardware wallet;5;1
+z_assessor_2496;Transaction Editor Hardware wallet;5;1
+z_assessor_2702;Transaction Editor Hardware wallet;5;1
+z_assessor_3160;Transaction Editor Hardware wallet;4;1
+z_assessor_3473;Transaction Editor Hardware wallet;5;1
+z_assessor_2123;RESTful wrapper for Plutus Offchain;4;1
+z_assessor_2252;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_2397;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_2403;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_2554;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_2672;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_3007;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_3408;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_3521;RESTful wrapper for Plutus Offchain;5;1
+z_assessor_2123;Add Senior Developers to Ecosystem;5;0
+z_assessor_2312;Add Senior Developers to Ecosystem;4;0
+z_assessor_2463;Add Senior Developers to Ecosystem;5;0
+z_assessor_2483;Add Senior Developers to Ecosystem;5;0
+z_assessor_2713;Add Senior Developers to Ecosystem;4;0
+z_assessor_2831;Add Senior Developers to Ecosystem;5;0
+z_assessor_3008;Add Senior Developers to Ecosystem;5;0
+z_assessor_3021;Add Senior Developers to Ecosystem;5;0
+z_assessor_3063;Add Senior Developers to Ecosystem;5;0
+z_assessor_3205;Add Senior Developers to Ecosystem;4;0
+z_assessor_3233;Add Senior Developers to Ecosystem;5;0
+z_assessor_3408;Add Senior Developers to Ecosystem;5;0
+z_assessor_2123;DAO-NET: Small Developer Funding;5;0
+z_assessor_2463;DAO-NET: Small Developer Funding;5;0
+z_assessor_2924;DAO-NET: Small Developer Funding;5;0
+z_assessor_3063;DAO-NET: Small Developer Funding;5;0
+z_assessor_3193;DAO-NET: Small Developer Funding;5;0
+z_assessor_3449;DAO-NET: Small Developer Funding;5;0
+z_assessor_3833;DAO-NET: Small Developer Funding;5;0
+z_assessor_2123;Oura v2;5;1
+z_assessor_2463;Oura v2;5;1
+z_assessor_2822;Oura v2;5;1
+z_assessor_3205;Oura v2;4;1
+z_assessor_2169;Oura v2;5;1
+z_assessor_4129;Oura v2;4;1
+z_assessor_2129;Fetachain - IIoT Cardano Framework;5;1
+z_assessor_2290;Fetachain - IIoT Cardano Framework;3;0
+z_assessor_2381;Fetachain - IIoT Cardano Framework;4;1
+z_assessor_2384;Fetachain - IIoT Cardano Framework;5;1
+z_assessor_2517;Fetachain - IIoT Cardano Framework;4;1
+z_assessor_2525;Fetachain - IIoT Cardano Framework;4;1
+z_assessor_4060;Fetachain - IIoT Cardano Framework;4;1
+z_assessor_2129;A standard for token verification;5;1
+z_assessor_2403;A standard for token verification;4;1
+z_assessor_2817;A standard for token verification;5;1
+z_assessor_3325;A standard for token verification;5;1
+z_assessor_3362;A standard for token verification;3;0
+z_assessor_2129;Rare Bloom Cardano Community Event;5;1
+z_assessor_2148;Rare Bloom Cardano Community Event;3;0
+z_assessor_2817;Rare Bloom Cardano Community Event;5;1
+z_assessor_2824;Rare Bloom Cardano Community Event;3;0
+z_assessor_2907;Rare Bloom Cardano Community Event;3;0
+z_assessor_2956;Rare Bloom Cardano Community Event;4;1
+z_assessor_3915;Rare Bloom Cardano Community Event;5;1
+z_assessor_2133;Spectrum.Network | Layer 2 for DeFi;5;0
+z_assessor_2237;Spectrum.Network | Layer 2 for DeFi;5;0
+z_assessor_2261;Spectrum.Network | Layer 2 for DeFi;4;0
+z_assessor_2274;Spectrum.Network | Layer 2 for DeFi;4;0
+z_assessor_2394;Spectrum.Network | Layer 2 for DeFi;5;0
+z_assessor_2558;Spectrum.Network | Layer 2 for DeFi;4;0
+z_assessor_3255;Spectrum.Network | Layer 2 for DeFi;5;0
+z_assessor_2136;JPG DAO: Legal Review;4;0
+z_assessor_2192;JPG DAO: Legal Review;3;1
+z_assessor_2241;JPG DAO: Legal Review;5;0
+z_assessor_2290;JPG DAO: Legal Review;5;0
+z_assessor_2824;JPG DAO: Legal Review;3;1
+z_assessor_2879;JPG DAO: Legal Review;1;1
+z_assessor_3008;JPG DAO: Legal Review;5;0
+z_assessor_3016;JPG DAO: Legal Review;4;0
+z_assessor_2137;Catalyst Swarm & SingularityNET;4;1
+z_assessor_2174;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2209;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2222;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2233;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2257;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2261;Catalyst Swarm & SingularityNET;3;0
+z_assessor_2735;Catalyst Swarm & SingularityNET;4;1
+z_assessor_2786;Catalyst Swarm & SingularityNET;3;0
+z_assessor_2902;Catalyst Swarm & SingularityNET;5;1
+z_assessor_3138;Catalyst Swarm & SingularityNET;5;1
+z_assessor_3216;Catalyst Swarm & SingularityNET;5;1
+z_assessor_2138;The Alexandria Project Web3 Library;3;1
+z_assessor_2259;The Alexandria Project Web3 Library;4;0
+z_assessor_2329;The Alexandria Project Web3 Library;5;0
+z_assessor_2377;The Alexandria Project Web3 Library;4;0
+z_assessor_3833;The Alexandria Project Web3 Library;3;1
+z_assessor_2146;dRep tool for non-English speakers;4;1
+z_assessor_2259;dRep tool for non-English speakers;5;1
+z_assessor_2352;dRep tool for non-English speakers;5;1
+z_assessor_2669;dRep tool for non-English speakers;5;1
+z_assessor_2734;dRep tool for non-English speakers;4;1
+z_assessor_2771;dRep tool for non-English speakers;5;1
+z_assessor_3008;dRep tool for non-English speakers;5;1
+z_assessor_3046;dRep tool for non-English speakers;5;1
+z_assessor_3438;dRep tool for non-English speakers;5;1
+z_assessor_3702;dRep tool for non-English speakers;3;0
+z_assessor_3870;dRep tool for non-English speakers;5;1
+z_assessor_2146;Support dRep Japan and Vietnam;4;0
+z_assessor_2352;Support dRep Japan and Vietnam;4;0
+z_assessor_2771;Support dRep Japan and Vietnam;5;0
+z_assessor_2787;Support dRep Japan and Vietnam;5;0
+z_assessor_2929;Support dRep Japan and Vietnam;4;0
+z_assessor_3008;Support dRep Japan and Vietnam;4;0
+z_assessor_3046;Support dRep Japan and Vietnam;4;0
+z_assessor_3065;Support dRep Japan and Vietnam;5;0
+z_assessor_3438;Support dRep Japan and Vietnam;5;0
+z_assessor_3702;Support dRep Japan and Vietnam;4;0
+z_assessor_3750;Support dRep Japan and Vietnam;5;0
+z_assessor_3870;Support dRep Japan and Vietnam;5;0
+z_assessor_2146;CardanoPress, A Plugin for Builders;4;1
+z_assessor_2483;CardanoPress, A Plugin for Builders;5;1
+z_assessor_2502;CardanoPress, A Plugin for Builders;5;1
+z_assessor_2513;CardanoPress, A Plugin for Builders;5;1
+z_assessor_2616;CardanoPress, A Plugin for Builders;5;1
+z_assessor_2669;CardanoPress, A Plugin for Builders;5;1
+z_assessor_3130;CardanoPress, A Plugin for Builders;5;1
+z_assessor_3319;CardanoPress, A Plugin for Builders;5;1
+z_assessor_3702;CardanoPress, A Plugin for Builders;4;1
+z_assessor_3878;CardanoPress, A Plugin for Builders;4;1
+z_assessor_2146;dRep Interview Channel;5;1
+z_assessor_2554;dRep Interview Channel;4;1
+z_assessor_2636;dRep Interview Channel;5;1
+z_assessor_2771;dRep Interview Channel;5;1
+z_assessor_3008;dRep Interview Channel;4;1
+z_assessor_3046;dRep Interview Channel;5;1
+z_assessor_3438;dRep Interview Channel;5;1
+z_assessor_3717;dRep Interview Channel;5;1
+z_assessor_3870;dRep Interview Channel;5;1
+z_assessor_4100;dRep Interview Channel;5;1
+z_assessor_4101;dRep Interview Channel;5;1
+z_assessor_2151;Mediation Training & Certification;5;1
+z_assessor_2215;Mediation Training & Certification;4;1
+z_assessor_2259;Mediation Training & Certification;4;1
+z_assessor_2365;Mediation Training & Certification;5;1
+z_assessor_2822;Mediation Training & Certification;4;1
+z_assessor_2893;Mediation Training & Certification;5;1
+z_assessor_2915;Mediation Training & Certification;5;1
+z_assessor_3008;Mediation Training & Certification;5;1
+z_assessor_3016;Mediation Training & Certification;5;1
+z_assessor_3312;Mediation Training & Certification;5;1
+z_assessor_3353;Mediation Training & Certification;5;1
+z_assessor_3648;Mediation Training & Certification;5;1
+z_assessor_2169;Cardano Wallet OneBox;2;0
+z_assessor_2299;Cardano Wallet OneBox;1;0
+z_assessor_2324;Cardano Wallet OneBox;4;1
+z_assessor_2335;Cardano Wallet OneBox;4;1
+z_assessor_2675;Cardano Wallet OneBox;2;0
+z_assessor_2684;Cardano Wallet OneBox;5;1
+z_assessor_2980;Cardano Wallet OneBox;1;0
+z_assessor_3906;Cardano Wallet OneBox;4;1
+z_assessor_4072;Cardano Wallet OneBox;2;0
+z_assessor_4083;Cardano Wallet OneBox;2;0
+z_assessor_2170;ADAwell: Wellbeing DAO;5;1
+z_assessor_2259;ADAwell: Wellbeing DAO;4;1
+z_assessor_2360;ADAwell: Wellbeing DAO;5;1
+z_assessor_2376;ADAwell: Wellbeing DAO;5;1
+z_assessor_2448;ADAwell: Wellbeing DAO;5;1
+z_assessor_2479;ADAwell: Wellbeing DAO;5;1
+z_assessor_2790;ADAwell: Wellbeing DAO;5;1
+z_assessor_3820;ADAwell: Wellbeing DAO;5;1
+z_assessor_2174;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2274;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2386;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2397;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2795;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2928;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_3045;ATALA Prism zKP + Hyperledger Aries;5;0
+z_assessor_2174;AMA with Cross-Chain Communities;5;1
+z_assessor_2786;AMA with Cross-Chain Communities;5;1
+z_assessor_2878;AMA with Cross-Chain Communities;4;1
+z_assessor_2993;AMA with Cross-Chain Communities;4;1
+z_assessor_3296;AMA with Cross-Chain Communities;5;1
+z_assessor_3319;AMA with Cross-Chain Communities;5;1
+z_assessor_3399;AMA with Cross-Chain Communities;4;1
+z_assessor_3408;AMA with Cross-Chain Communities;4;1
+z_assessor_2186;Blockchain Surveys for DAOs & More;5;0
+z_assessor_2292;Blockchain Surveys for DAOs & More;5;0
+z_assessor_3008;Blockchain Surveys for DAOs & More;5;0
+z_assessor_3319;Blockchain Surveys for DAOs & More;5;0
+z_assessor_3411;Blockchain Surveys for DAOs & More;5;0
+z_assessor_3616;Blockchain Surveys for DAOs & More;4;0
+z_assessor_3930;Blockchain Surveys for DAOs & More;5;0
+z_assessor_2186;Accelerator batch #3;5;0
+z_assessor_2322;Accelerator batch #3;2;1
+z_assessor_2324;Accelerator batch #3;5;0
+z_assessor_2325;Accelerator batch #3;2;1
+z_assessor_2332;Accelerator batch #3;5;0
+z_assessor_2335;Accelerator batch #3;5;0
+z_assessor_2356;Accelerator batch #3;3;1
+z_assessor_2358;Accelerator batch #3;2;1
+z_assessor_2464;Accelerator batch #3;5;0
+z_assessor_2616;Accelerator batch #3;2;1
+z_assessor_2675;Accelerator batch #3;5;0
+z_assessor_2736;Accelerator batch #3;4;0
+z_assessor_2893;Accelerator batch #3;4;0
+z_assessor_2911;Accelerator batch #3;5;0
+z_assessor_3205;Accelerator batch #3;5;0
+z_assessor_3250;Accelerator batch #3;4;0
+z_assessor_3470;Accelerator batch #3;2;1
+z_assessor_3702;Accelerator batch #3;5;0
+z_assessor_4056;Accelerator batch #3;3;1
+z_assessor_2192;Outreach, Education & Collaboration;5;0
+z_assessor_2217;Outreach, Education & Collaboration;4;0
+z_assessor_2259;Outreach, Education & Collaboration;3;1
+z_assessor_2298;Outreach, Education & Collaboration;4;0
+z_assessor_2306;Outreach, Education & Collaboration;5;0
+z_assessor_2352;Outreach, Education & Collaboration;5;0
+z_assessor_2461;Outreach, Education & Collaboration;5;0
+z_assessor_2462;Outreach, Education & Collaboration;4;0
+z_assessor_2483;Outreach, Education & Collaboration;5;0
+z_assessor_2615;Outreach, Education & Collaboration;4;0
+z_assessor_2616;Outreach, Education & Collaboration;5;0
+z_assessor_2729;Outreach, Education & Collaboration;4;0
+z_assessor_2734;Outreach, Education & Collaboration;4;0
+z_assessor_2786;Outreach, Education & Collaboration;5;0
+z_assessor_2811;Outreach, Education & Collaboration;5;0
+z_assessor_2856;Outreach, Education & Collaboration;4;0
+z_assessor_2878;Outreach, Education & Collaboration;5;0
+z_assessor_2906;Outreach, Education & Collaboration;4;0
+z_assessor_2908;Outreach, Education & Collaboration;5;0
+z_assessor_2957;Outreach, Education & Collaboration;5;0
+z_assessor_2976;Outreach, Education & Collaboration;4;0
+z_assessor_2984;Outreach, Education & Collaboration;3;1
+z_assessor_2996;Outreach, Education & Collaboration;4;0
+z_assessor_3008;Outreach, Education & Collaboration;5;0
+z_assessor_3046;Outreach, Education & Collaboration;4;0
+z_assessor_3124;Outreach, Education & Collaboration;4;0
+z_assessor_3138;Outreach, Education & Collaboration;5;0
+z_assessor_3160;Outreach, Education & Collaboration;3;1
+z_assessor_3188;Outreach, Education & Collaboration;4;0
+z_assessor_3216;Outreach, Education & Collaboration;4;0
+z_assessor_3223;Outreach, Education & Collaboration;5;0
+z_assessor_3230;Outreach, Education & Collaboration;5;0
+z_assessor_3243;Outreach, Education & Collaboration;5;0
+z_assessor_3279;Outreach, Education & Collaboration;4;0
+z_assessor_3281;Outreach, Education & Collaboration;5;0
+z_assessor_3312;Outreach, Education & Collaboration;5;0
+z_assessor_3353;Outreach, Education & Collaboration;4;0
+z_assessor_3362;Outreach, Education & Collaboration;4;0
+z_assessor_3378;Outreach, Education & Collaboration;2;1
+z_assessor_3408;Outreach, Education & Collaboration;5;0
+z_assessor_3438;Outreach, Education & Collaboration;5;0
+z_assessor_3497;Outreach, Education & Collaboration;5;0
+z_assessor_3514;Outreach, Education & Collaboration;4;0
+z_assessor_3521;Outreach, Education & Collaboration;5;0
+z_assessor_3616;Outreach, Education & Collaboration;5;0
+z_assessor_3623;Outreach, Education & Collaboration;3;1
+z_assessor_3848;Outreach, Education & Collaboration;4;0
+z_assessor_4097;Outreach, Education & Collaboration;3;1
+z_assessor_4102;Outreach, Education & Collaboration;3;1
+z_assessor_4104;Outreach, Education & Collaboration;4;0
+z_assessor_2192;Cardano for MENA;3;0
+z_assessor_2306;Cardano for MENA;4;1
+z_assessor_2616;Cardano for MENA;4;1
+z_assessor_2734;Cardano for MENA;4;1
+z_assessor_2745;Cardano for MENA;3;0
+z_assessor_2786;Cardano for MENA;4;1
+z_assessor_2856;Cardano for MENA;4;1
+z_assessor_2916;Cardano for MENA;5;1
+z_assessor_2967;Cardano for MENA;3;0
+z_assessor_3008;Cardano for MENA;4;1
+z_assessor_3021;Cardano for MENA;4;1
+z_assessor_3046;Cardano for MENA;4;1
+z_assessor_3188;Cardano for MENA;4;1
+z_assessor_3233;Cardano for MENA;5;1
+z_assessor_3243;Cardano for MENA;5;1
+z_assessor_3279;Cardano for MENA;3;0
+z_assessor_3284;Cardano for MENA;4;1
+z_assessor_3521;Cardano for MENA;4;1
+z_assessor_3617;Cardano for MENA;4;1
+z_assessor_3648;Cardano for MENA;5;1
+z_assessor_4104;Cardano for MENA;3;0
+z_assessor_2192;Cardano Tunisia;4;1
+z_assessor_2259;Cardano Tunisia;2;0
+z_assessor_2461;Cardano Tunisia;3;0
+z_assessor_2786;Cardano Tunisia;5;1
+z_assessor_2856;Cardano Tunisia;4;1
+z_assessor_3046;Cardano Tunisia;3;0
+z_assessor_3106;Cardano Tunisia;3;0
+z_assessor_3223;Cardano Tunisia;4;1
+z_assessor_3445;Cardano Tunisia;4;1
+z_assessor_3616;Cardano Tunisia;4;1
+z_assessor_2192;International students for Cardano;5;1
+z_assessor_2207;International students for Cardano;5;1
+z_assessor_2217;International students for Cardano;4;1
+z_assessor_2259;International students for Cardano;4;1
+z_assessor_2299;International students for Cardano;5;1
+z_assessor_2301;International students for Cardano;5;1
+z_assessor_2306;International students for Cardano;5;1
+z_assessor_2352;International students for Cardano;4;1
+z_assessor_2461;International students for Cardano;4;1
+z_assessor_2483;International students for Cardano;5;1
+z_assessor_2616;International students for Cardano;5;1
+z_assessor_2631;International students for Cardano;5;1
+z_assessor_2704;International students for Cardano;4;1
+z_assessor_2734;International students for Cardano;4;1
+z_assessor_2749;International students for Cardano;5;1
+z_assessor_2786;International students for Cardano;5;1
+z_assessor_2856;International students for Cardano;4;1
+z_assessor_2929;International students for Cardano;5;1
+z_assessor_2967;International students for Cardano;5;1
+z_assessor_2984;International students for Cardano;5;1
+z_assessor_2989;International students for Cardano;4;1
+z_assessor_3046;International students for Cardano;4;1
+z_assessor_3119;International students for Cardano;3;0
+z_assessor_3124;International students for Cardano;4;1
+z_assessor_3160;International students for Cardano;3;0
+z_assessor_3243;International students for Cardano;5;1
+z_assessor_3279;International students for Cardano;4;1
+z_assessor_3281;International students for Cardano;4;1
+z_assessor_3438;International students for Cardano;5;1
+z_assessor_3617;International students for Cardano;4;1
+z_assessor_4055;International students for Cardano;3;0
+z_assessor_4103;International students for Cardano;2;0
+z_assessor_2192;University Design Team;5;1
+z_assessor_2217;University Design Team;4;1
+z_assessor_2259;University Design Team;4;1
+z_assessor_2299;University Design Team;4;1
+z_assessor_2352;University Design Team;3;0
+z_assessor_2461;University Design Team;4;1
+z_assessor_2466;University Design Team;4;1
+z_assessor_2483;University Design Team;5;1
+z_assessor_2616;University Design Team;3;0
+z_assessor_2703;University Design Team;5;1
+z_assessor_2734;University Design Team;4;1
+z_assessor_2786;University Design Team;5;1
+z_assessor_2811;University Design Team;4;1
+z_assessor_2856;University Design Team;4;1
+z_assessor_2878;University Design Team;3;0
+z_assessor_2916;University Design Team;4;1
+z_assessor_2976;University Design Team;4;1
+z_assessor_2989;University Design Team;3;0
+z_assessor_3008;University Design Team;4;1
+z_assessor_3022;University Design Team;5;1
+z_assessor_3046;University Design Team;4;1
+z_assessor_3140;University Design Team;4;1
+z_assessor_3171;University Design Team;4;1
+z_assessor_3173;University Design Team;5;1
+z_assessor_3188;University Design Team;4;1
+z_assessor_3189;University Design Team;4;1
+z_assessor_3230;University Design Team;5;1
+z_assessor_3243;University Design Team;5;1
+z_assessor_3279;University Design Team;4;1
+z_assessor_3281;University Design Team;3;0
+z_assessor_3362;University Design Team;2;0
+z_assessor_3408;University Design Team;3;0
+z_assessor_3521;University Design Team;4;1
+z_assessor_4072;University Design Team;5;1
+z_assessor_4104;University Design Team;5;1
+z_assessor_4108;University Design Team;3;0
+z_assessor_2192;dRep Education Book Club;5;1
+z_assessor_2207;dRep Education Book Club;5;1
+z_assessor_2259;dRep Education Book Club;4;1
+z_assessor_2343;dRep Education Book Club;5;1
+z_assessor_2716;dRep Education Book Club;4;1
+z_assessor_2754;dRep Education Book Club;5;1
+z_assessor_3065;dRep Education Book Club;5;1
+z_assessor_3160;dRep Education Book Club;4;1
+z_assessor_3449;dRep Education Book Club;4;1
+z_assessor_3702;dRep Education Book Club;4;1
+z_assessor_2192;Catalyst tournament;5;1
+z_assessor_2259;Catalyst tournament;4;1
+z_assessor_2404;Catalyst tournament;5;1
+z_assessor_2504;Catalyst tournament;4;1
+z_assessor_2616;Catalyst tournament;5;1
+z_assessor_2734;Catalyst tournament;4;1
+z_assessor_2749;Catalyst tournament;5;1
+z_assessor_2929;Catalyst tournament;5;1
+z_assessor_3008;Catalyst tournament;4;1
+z_assessor_3052;Catalyst tournament;4;1
+z_assessor_3171;Catalyst tournament;4;1
+z_assessor_3228;Catalyst tournament;5;1
+z_assessor_3243;Catalyst tournament;5;1
+z_assessor_3319;Catalyst tournament;4;1
+z_assessor_3362;Catalyst tournament;4;1
+z_assessor_3438;Catalyst tournament;5;1
+z_assessor_3487;Catalyst tournament;5;1
+z_assessor_3648;Catalyst tournament;5;1
+z_assessor_4075;Catalyst tournament;5;1
+z_assessor_4104;Catalyst tournament;5;1
+z_assessor_2192;KYC Solution;4;0
+z_assessor_2376;KYC Solution;5;0
+z_assessor_2824;KYC Solution;4;0
+z_assessor_2879;KYC Solution;2;1
+z_assessor_3016;KYC Solution;3;1
+z_assessor_2192;Fund Winner Marketing Logos;5;1
+z_assessor_2616;Fund Winner Marketing Logos;5;1
+z_assessor_2671;Fund Winner Marketing Logos;5;1
+z_assessor_2878;Fund Winner Marketing Logos;5;1
+z_assessor_2916;Fund Winner Marketing Logos;5;1
+z_assessor_2971;Fund Winner Marketing Logos;4;1
+z_assessor_3078;Fund Winner Marketing Logos;5;1
+z_assessor_3408;Fund Winner Marketing Logos;5;1
+z_assessor_2192;Medical Records Ownership Protocol;5;1
+z_assessor_2228;Medical Records Ownership Protocol;5;1
+z_assessor_2301;Medical Records Ownership Protocol;5;1
+z_assessor_3193;Medical Records Ownership Protocol;5;1
+z_assessor_2259;Medical Records Ownership Protocol;3;0
+z_assessor_2255;Medical Records Ownership Protocol;5;1
+z_assessor_2714;Medical Records Ownership Protocol;5;1
+z_assessor_2194;Haskell Course For Developers;5;1
+z_assessor_2217;Haskell Course For Developers;4;1
+z_assessor_2352;Haskell Course For Developers;5;1
+z_assessor_2461;Haskell Course For Developers;5;1
+z_assessor_2552;Haskell Course For Developers;5;1
+z_assessor_2732;Haskell Course For Developers;5;1
+z_assessor_2771;Haskell Course For Developers;5;1
+z_assessor_2985;Haskell Course For Developers;4;1
+z_assessor_2996;Haskell Course For Developers;5;1
+z_assessor_3021;Haskell Course For Developers;5;1
+z_assessor_3023;Haskell Course For Developers;5;1
+z_assessor_3046;Haskell Course For Developers;5;1
+z_assessor_3068;Haskell Course For Developers;3;0
+z_assessor_3833;Haskell Course For Developers;5;1
+z_assessor_3870;Haskell Course For Developers;5;1
+z_assessor_4099;Haskell Course For Developers;4;1
+z_assessor_4100;Haskell Course For Developers;5;1
+z_assessor_4101;Haskell Course For Developers;5;1
+z_assessor_2207;China Info Hub Continued;5;1
+z_assessor_2483;China Info Hub Continued;5;1
+z_assessor_2631;China Info Hub Continued;5;1
+z_assessor_2751;China Info Hub Continued;5;1
+z_assessor_2933;China Info Hub Continued;5;1
+z_assessor_3001;China Info Hub Continued;5;1
+z_assessor_3008;China Info Hub Continued;5;1
+z_assessor_3189;China Info Hub Continued;4;1
+z_assessor_3362;China Info Hub Continued;4;1
+z_assessor_3420;China Info Hub Continued;5;1
+z_assessor_3438;China Info Hub Continued;5;1
+z_assessor_3521;China Info Hub Continued;4;1
+z_assessor_3553;China Info Hub Continued;5;1
+z_assessor_2207;Cardano Bridges in Japanese;4;1
+z_assessor_2289;Cardano Bridges in Japanese;2;0
+z_assessor_2299;Cardano Bridges in Japanese;4;1
+z_assessor_2734;Cardano Bridges in Japanese;4;1
+z_assessor_2814;Cardano Bridges in Japanese;5;1
+z_assessor_3225;Cardano Bridges in Japanese;3;0
+z_assessor_3408;Cardano Bridges in Japanese;4;1
+z_assessor_2207;Cardano General Help Desk;5;1
+z_assessor_2328;Cardano General Help Desk;3;0
+z_assessor_2504;Cardano General Help Desk;3;0
+z_assessor_2585;Cardano General Help Desk;4;1
+z_assessor_2741;Cardano General Help Desk;5;1
+z_assessor_2781;Cardano General Help Desk;3;0
+z_assessor_3063;Cardano General Help Desk;4;1
+z_assessor_3081;Cardano General Help Desk;4;1
+z_assessor_2207;Cardano Student Learning Platform;5;1
+z_assessor_2222;Cardano Student Learning Platform;5;1
+z_assessor_2404;Cardano Student Learning Platform;3;0
+z_assessor_2483;Cardano Student Learning Platform;5;1
+z_assessor_2504;Cardano Student Learning Platform;4;1
+z_assessor_2616;Cardano Student Learning Platform;3;0
+z_assessor_2734;Cardano Student Learning Platform;3;0
+z_assessor_2890;Cardano Student Learning Platform;3;0
+z_assessor_2916;Cardano Student Learning Platform;5;1
+z_assessor_3008;Cardano Student Learning Platform;5;1
+z_assessor_3081;Cardano Student Learning Platform;4;1
+z_assessor_3216;Cardano Student Learning Platform;3;0
+z_assessor_3233;Cardano Student Learning Platform;4;1
+z_assessor_3320;Cardano Student Learning Platform;4;1
+z_assessor_3352;Cardano Student Learning Platform;4;1
+z_assessor_3438;Cardano Student Learning Platform;5;1
+z_assessor_3470;Cardano Student Learning Platform;1;0
+z_assessor_3521;Cardano Student Learning Platform;4;1
+z_assessor_3617;Cardano Student Learning Platform;3;0
+z_assessor_2209;Wolfram UTxO History&Collaboration;4;1
+z_assessor_2233;Wolfram UTxO History&Collaboration;5;1
+z_assessor_2261;Wolfram UTxO History&Collaboration;5;1
+z_assessor_2552;Wolfram UTxO History&Collaboration;5;1
+z_assessor_2786;Wolfram UTxO History&Collaboration;4;1
+z_assessor_3138;Wolfram UTxO History&Collaboration;5;1
+z_assessor_3181;Wolfram UTxO History&Collaboration;3;0
+z_assessor_2215;Bringing Cardano to Cambridge;4;0
+z_assessor_2219;Bringing Cardano to Cambridge;5;0
+z_assessor_2404;Bringing Cardano to Cambridge;3;1
+z_assessor_2419;Bringing Cardano to Cambridge;4;0
+z_assessor_2462;Bringing Cardano to Cambridge;2;1
+z_assessor_2616;Bringing Cardano to Cambridge;5;0
+z_assessor_2741;Bringing Cardano to Cambridge;5;0
+z_assessor_2754;Bringing Cardano to Cambridge;5;0
+z_assessor_2878;Bringing Cardano to Cambridge;2;1
+z_assessor_2906;Bringing Cardano to Cambridge;5;0
+z_assessor_2941;Bringing Cardano to Cambridge;4;0
+z_assessor_2971;Bringing Cardano to Cambridge;4;0
+z_assessor_2976;Bringing Cardano to Cambridge;4;0
+z_assessor_3008;Bringing Cardano to Cambridge;5;0
+z_assessor_3216;Bringing Cardano to Cambridge;4;0
+z_assessor_3270;Bringing Cardano to Cambridge;4;0
+z_assessor_3362;Bringing Cardano to Cambridge;4;0
+z_assessor_3401;Bringing Cardano to Cambridge;4;0
+z_assessor_3617;Bringing Cardano to Cambridge;3;1
+z_assessor_2215;Cardano Africa SmartFarming DApp;5;1
+z_assessor_2552;Cardano Africa SmartFarming DApp;4;1
+z_assessor_2976;Cardano Africa SmartFarming DApp;4;1
+z_assessor_3256;Cardano Africa SmartFarming DApp;4;1
+z_assessor_3800;Cardano Africa SmartFarming DApp;3;0
+z_assessor_2216;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_2323;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_2327;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_2878;CEVI - INFO HUB FOR VN (EN);4;1
+z_assessor_3037;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_3052;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_3196;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_3225;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_3249;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_3449;CEVI - INFO HUB FOR VN (EN);5;1
+z_assessor_2217;Impact lending for the unbanked;4;1
+z_assessor_2259;Impact lending for the unbanked;5;1
+z_assessor_2578;Impact lending for the unbanked;5;1
+z_assessor_2771;Impact lending for the unbanked;4;1
+z_assessor_3870;Impact lending for the unbanked;4;1
+z_assessor_2217;Accounting Reporting France;3;0
+z_assessor_2461;Accounting Reporting France;4;1
+z_assessor_2576;Accounting Reporting France;4;1
+z_assessor_2771;Accounting Reporting France;5;1
+z_assessor_2824;Accounting Reporting France;5;1
+z_assessor_2979;Accounting Reporting France;5;1
+z_assessor_3016;Accounting Reporting France;5;1
+z_assessor_3046;Accounting Reporting France;5;1
+z_assessor_3279;Accounting Reporting France;5;1
+z_assessor_3281;Accounting Reporting France;4;1
+z_assessor_3870;Accounting Reporting France;5;1
+z_assessor_3902;Accounting Reporting France;5;1
+z_assessor_2222;Cross-Chain Fake NFT Protection;5;1
+z_assessor_2292;Cross-Chain Fake NFT Protection;4;1
+z_assessor_2419;Cross-Chain Fake NFT Protection;5;1
+z_assessor_2616;Cross-Chain Fake NFT Protection;5;1
+z_assessor_2713;Cross-Chain Fake NFT Protection;4;1
+z_assessor_2847;Cross-Chain Fake NFT Protection;4;1
+z_assessor_3187;Cross-Chain Fake NFT Protection;4;1
+z_assessor_3252;Cross-Chain Fake NFT Protection;5;1
+z_assessor_2222;Attract ETH NFT Projects & Talent;4;0
+z_assessor_2702;Attract ETH NFT Projects & Talent;5;0
+z_assessor_2847;Attract ETH NFT Projects & Talent;5;0
+z_assessor_2855;Attract ETH NFT Projects & Talent;5;0
+z_assessor_2918;Attract ETH NFT Projects & Talent;4;0
+z_assessor_2996;Attract ETH NFT Projects & Talent;4;0
+z_assessor_3265;Attract ETH NFT Projects & Talent;5;0
+z_assessor_3616;Attract ETH NFT Projects & Talent;4;0
+z_assessor_3650;Attract ETH NFT Projects & Talent;5;0
+z_assessor_4072;Attract ETH NFT Projects & Talent;4;0
+z_assessor_2222;Game Play and Earn from EVM Network;4;0
+z_assessor_2237;Game Play and Earn from EVM Network;5;0
+z_assessor_2292;Game Play and Earn from EVM Network;5;0
+z_assessor_2464;Game Play and Earn from EVM Network;5;0
+z_assessor_2714;Game Play and Earn from EVM Network;4;0
+z_assessor_2786;Game Play and Earn from EVM Network;5;0
+z_assessor_2826;Game Play and Earn from EVM Network;4;0
+z_assessor_3008;Game Play and Earn from EVM Network;4;0
+z_assessor_3046;Game Play and Earn from EVM Network;4;0
+z_assessor_4100;Game Play and Earn from EVM Network;5;0
+z_assessor_4101;Game Play and Earn from EVM Network;5;0
+z_assessor_2222;cexplorer.io - cardano explorer;4;1
+z_assessor_2301;cexplorer.io - cardano explorer;1;0
+z_assessor_2317;cexplorer.io - cardano explorer;5;1
+z_assessor_2643;cexplorer.io - cardano explorer;2;0
+z_assessor_2672;cexplorer.io - cardano explorer;2;0
+z_assessor_2684;cexplorer.io - cardano explorer;4;1
+z_assessor_2720;cexplorer.io - cardano explorer;5;1
+z_assessor_3988;cexplorer.io - cardano explorer;5;1
+z_assessor_2222;Bringing Business to Cardano;4;1
+z_assessor_2245;Bringing Business to Cardano;4;1
+z_assessor_2385;Bringing Business to Cardano;5;1
+z_assessor_2704;Bringing Business to Cardano;5;1
+z_assessor_2747;Bringing Business to Cardano;4;1
+z_assessor_3844;Bringing Business to Cardano;5;1
+z_assessor_2222;EVM DAO Integration;5;0
+z_assessor_2714;EVM DAO Integration;5;0
+z_assessor_2847;EVM DAO Integration;4;0
+z_assessor_2895;EVM DAO Integration;5;0
+z_assessor_2911;EVM DAO Integration;5;0
+z_assessor_2228;PubWeave: Academic Publishing;5;0
+z_assessor_2482;PubWeave: Academic Publishing;5;0
+z_assessor_2622;PubWeave: Academic Publishing;5;0
+z_assessor_2675;PubWeave: Academic Publishing;5;0
+z_assessor_2966;PubWeave: Academic Publishing;5;0
+z_assessor_3084;PubWeave: Academic Publishing;4;0
+z_assessor_3296;PubWeave: Academic Publishing;5;0
+z_assessor_3319;PubWeave: Academic Publishing;5;0
+z_assessor_3472;PubWeave: Academic Publishing;5;0
+z_assessor_3872;PubWeave: Academic Publishing;5;0
+z_assessor_3891;PubWeave: Academic Publishing;4;0
+z_assessor_4098;PubWeave: Academic Publishing;5;0
+z_assessor_2228;Cardano Asia TikTok Channel;5;1
+z_assessor_2476;Cardano Asia TikTok Channel;5;1
+z_assessor_2483;Cardano Asia TikTok Channel;5;1
+z_assessor_2552;Cardano Asia TikTok Channel;5;1
+z_assessor_2618;Cardano Asia TikTok Channel;4;1
+z_assessor_2678;Cardano Asia TikTok Channel;5;1
+z_assessor_2704;Cardano Asia TikTok Channel;5;1
+z_assessor_2732;Cardano Asia TikTok Channel;5;1
+z_assessor_2741;Cardano Asia TikTok Channel;4;1
+z_assessor_2749;Cardano Asia TikTok Channel;5;1
+z_assessor_2771;Cardano Asia TikTok Channel;5;1
+z_assessor_2916;Cardano Asia TikTok Channel;5;1
+z_assessor_2936;Cardano Asia TikTok Channel;5;1
+z_assessor_2985;Cardano Asia TikTok Channel;5;1
+z_assessor_3001;Cardano Asia TikTok Channel;5;1
+z_assessor_3008;Cardano Asia TikTok Channel;5;1
+z_assessor_3011;Cardano Asia TikTok Channel;5;1
+z_assessor_3082;Cardano Asia TikTok Channel;5;1
+z_assessor_3144;Cardano Asia TikTok Channel;4;1
+z_assessor_3183;Cardano Asia TikTok Channel;5;1
+z_assessor_3196;Cardano Asia TikTok Channel;5;1
+z_assessor_3198;Cardano Asia TikTok Channel;5;1
+z_assessor_3216;Cardano Asia TikTok Channel;5;1
+z_assessor_3225;Cardano Asia TikTok Channel;5;1
+z_assessor_3235;Cardano Asia TikTok Channel;5;1
+z_assessor_3243;Cardano Asia TikTok Channel;5;1
+z_assessor_3353;Cardano Asia TikTok Channel;4;1
+z_assessor_3376;Cardano Asia TikTok Channel;5;1
+z_assessor_3449;Cardano Asia TikTok Channel;5;1
+z_assessor_3521;Cardano Asia TikTok Channel;5;1
+z_assessor_3899;Cardano Asia TikTok Channel;4;1
+z_assessor_4096;Cardano Asia TikTok Channel;4;1
+z_assessor_2233;littlefish - Ocean Technologies;4;1
+z_assessor_2548;littlefish - Ocean Technologies;5;1
+z_assessor_2786;littlefish - Ocean Technologies;5;1
+z_assessor_2824;littlefish - Ocean Technologies;5;1
+z_assessor_2902;littlefish - Ocean Technologies;5;1
+z_assessor_3287;littlefish - Ocean Technologies;5;1
+z_assessor_2233;Oneiron: Cardano Sidechain SDK;4;0
+z_assessor_3237;Oneiron: Cardano Sidechain SDK;5;0
+z_assessor_3773;Oneiron: Cardano Sidechain SDK;5;0
+z_assessor_4072;Oneiron: Cardano Sidechain SDK;5;0
+z_assessor_2259;Oneiron: Cardano Sidechain SDK;4;0
+z_assessor_2237;TapTools: All-In-One Platform;5;1
+z_assessor_2479;TapTools: All-In-One Platform;5;1
+z_assessor_2817;TapTools: All-In-One Platform;5;1
+z_assessor_3207;TapTools: All-In-One Platform;4;1
+z_assessor_3214;TapTools: All-In-One Platform;5;1
+z_assessor_3237;TapTools: All-In-One Platform;5;1
+z_assessor_3472;TapTools: All-In-One Platform;5;1
+z_assessor_3906;TapTools: All-In-One Platform;4;1
+z_assessor_4106;TapTools: All-In-One Platform;3;0
+z_assessor_4113;TapTools: All-In-One Platform;4;1
+z_assessor_2252;Driving Adoption via Travel D'Apps;2;0
+z_assessor_2299;Driving Adoption via Travel D'Apps;5;1
+z_assessor_2468;Driving Adoption via Travel D'Apps;3;0
+z_assessor_2552;Driving Adoption via Travel D'Apps;4;1
+z_assessor_3016;Driving Adoption via Travel D'Apps;5;1
+z_assessor_2252;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2298;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2299;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2463;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2642;CardanoPress: ISPO Dashboard;3;0
+z_assessor_2817;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2826;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2935;CardanoPress: ISPO Dashboard;5;1
+z_assessor_3624;CardanoPress: ISPO Dashboard;4;1
+z_assessor_2255;Evolve Eternl;3;1
+z_assessor_2534;Evolve Eternl;3;1
+z_assessor_2817;Evolve Eternl;5;0
+z_assessor_2878;Evolve Eternl;3;1
+z_assessor_3296;Evolve Eternl;3;1
+z_assessor_3319;Evolve Eternl;4;0
+z_assessor_3320;Evolve Eternl;4;0
+z_assessor_3497;Evolve Eternl;4;0
+z_assessor_2255;Translate Eternl;2;1
+z_assessor_2264;Translate Eternl;4;0
+z_assessor_2274;Translate Eternl;3;1
+z_assessor_2289;Translate Eternl;4;0
+z_assessor_2554;Translate Eternl;5;0
+z_assessor_2675;Translate Eternl;3;1
+z_assessor_2893;Translate Eternl;3;1
+z_assessor_2940;Translate Eternl;4;0
+z_assessor_3186;Translate Eternl;4;0
+z_assessor_3225;Translate Eternl;3;1
+z_assessor_3296;Translate Eternl;2;1
+z_assessor_3319;Translate Eternl;4;0
+z_assessor_2259;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2348;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2352;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2558;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2675;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_2735;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_2771;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2938;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_3046;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_3061;HONEYBEES ON BLOCKCHAIN;3;1
+z_assessor_3319;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_3321;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_3325;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_3338;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_3848;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_3870;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_4060;HONEYBEES ON BLOCKCHAIN;5;0
+z_assessor_4098;HONEYBEES ON BLOCKCHAIN;4;0
+z_assessor_2259;Recognize Impact through DIDs;4;1
+z_assessor_2352;Recognize Impact through DIDs;5;1
+z_assessor_2622;Recognize Impact through DIDs;5;1
+z_assessor_3223;Recognize Impact through DIDs;5;1
+z_assessor_4097;Recognize Impact through DIDs;4;1
+z_assessor_2259;Employment Credentials on PRISM;4;1
+z_assessor_2513;Employment Credentials on PRISM;5;1
+z_assessor_2576;Employment Credentials on PRISM;4;1
+z_assessor_2811;Employment Credentials on PRISM;5;1
+z_assessor_2996;Employment Credentials on PRISM;4;1
+z_assessor_3046;Employment Credentials on PRISM;5;1
+z_assessor_3158;Employment Credentials on PRISM;4;1
+z_assessor_4055;Employment Credentials on PRISM;4;1
+z_assessor_4060;Employment Credentials on PRISM;5;1
+z_assessor_2259;Cardano Community Center Cape Town;4;1
+z_assessor_2380;Cardano Community Center Cape Town;5;1
+z_assessor_2458;Cardano Community Center Cape Town;4;1
+z_assessor_2461;Cardano Community Center Cape Town;5;1
+z_assessor_2489;Cardano Community Center Cape Town;5;1
+z_assessor_2552;Cardano Community Center Cape Town;4;1
+z_assessor_2786;Cardano Community Center Cape Town;5;1
+z_assessor_2840;Cardano Community Center Cape Town;5;1
+z_assessor_2886;Cardano Community Center Cape Town;5;1
+z_assessor_2908;Cardano Community Center Cape Town;5;1
+z_assessor_2927;Cardano Community Center Cape Town;5;1
+z_assessor_3021;Cardano Community Center Cape Town;4;1
+z_assessor_3052;Cardano Community Center Cape Town;5;1
+z_assessor_3087;Cardano Community Center Cape Town;5;1
+z_assessor_3189;Cardano Community Center Cape Town;4;1
+z_assessor_3193;Cardano Community Center Cape Town;5;1
+z_assessor_3196;Cardano Community Center Cape Town;5;1
+z_assessor_3235;Cardano Community Center Cape Town;5;1
+z_assessor_3241;Cardano Community Center Cape Town;5;1
+z_assessor_3243;Cardano Community Center Cape Town;5;1
+z_assessor_3445;Cardano Community Center Cape Town;5;1
+z_assessor_3514;Cardano Community Center Cape Town;5;1
+z_assessor_3777;Cardano Community Center Cape Town;5;1
+z_assessor_3833;Cardano Community Center Cape Town;5;1
+z_assessor_2259;Stay Updated With Cardano Events;4;1
+z_assessor_2461;Stay Updated With Cardano Events;5;1
+z_assessor_2817;Stay Updated With Cardano Events;5;1
+z_assessor_3153;Stay Updated With Cardano Events;4;1
+z_assessor_3170;Stay Updated With Cardano Events;3;0
+z_assessor_2259;Courses & Education Crypto MKTPLACE;4;1
+z_assessor_2888;Courses & Education Crypto MKTPLACE;5;1
+z_assessor_2902;Courses & Education Crypto MKTPLACE;5;1
+z_assessor_2992;Courses & Education Crypto MKTPLACE;3;0
+z_assessor_4097;Courses & Education Crypto MKTPLACE;4;1
+z_assessor_4098;Courses & Education Crypto MKTPLACE;4;1
+z_assessor_4108;Courses & Education Crypto MKTPLACE;5;1
+z_assessor_2259;Connecting Asian Voter and Proposer;4;1
+z_assessor_2274;Connecting Asian Voter and Proposer;5;1
+z_assessor_2542;Connecting Asian Voter and Proposer;4;1
+z_assessor_2771;Connecting Asian Voter and Proposer;5;1
+z_assessor_2985;Connecting Asian Voter and Proposer;5;1
+z_assessor_3046;Connecting Asian Voter and Proposer;5;1
+z_assessor_3119;Connecting Asian Voter and Proposer;4;1
+z_assessor_3196;Connecting Asian Voter and Proposer;4;1
+z_assessor_3213;Connecting Asian Voter and Proposer;5;1
+z_assessor_3216;Connecting Asian Voter and Proposer;4;1
+z_assessor_3870;Connecting Asian Voter and Proposer;5;1
+z_assessor_3902;Connecting Asian Voter and Proposer;4;1
+z_assessor_2259;Proposals Mentors Marketplace - 2;5;0
+z_assessor_2461;Proposals Mentors Marketplace - 2;5;0
+z_assessor_2754;Proposals Mentors Marketplace - 2;5;0
+z_assessor_2817;Proposals Mentors Marketplace - 2;5;0
+z_assessor_3998;Proposals Mentors Marketplace - 2;5;0
+z_assessor_2259;Mtidano: NFTrees 4 Erosion Control;4;0
+z_assessor_2517;Mtidano: NFTrees 4 Erosion Control;3;1
+z_assessor_2817;Mtidano: NFTrees 4 Erosion Control;4;0
+z_assessor_2996;Mtidano: NFTrees 4 Erosion Control;4;0
+z_assessor_3237;Mtidano: NFTrees 4 Erosion Control;3;1
+z_assessor_4098;Mtidano: NFTrees 4 Erosion Control;3;1
+z_assessor_2264;Gov3 - DAO Delegation Dashboard;5;1
+z_assessor_2292;Gov3 - DAO Delegation Dashboard;5;1
+z_assessor_2436;Gov3 - DAO Delegation Dashboard;5;1
+z_assessor_2968;Gov3 - DAO Delegation Dashboard;4;1
+z_assessor_3813;Gov3 - DAO Delegation Dashboard;5;1
+z_assessor_2264;Adosia Spaceprinter Lite;4;0
+z_assessor_2761;Adosia Spaceprinter Lite;5;0
+z_assessor_2525;Adosia Spaceprinter Lite;5;0
+z_assessor_2257;Adosia Spaceprinter Lite;3;1
+z_assessor_2274;Plural Voting and Identity for DAOs;5;0
+z_assessor_2312;Plural Voting and Identity for DAOs;5;0
+z_assessor_2397;Plural Voting and Identity for DAOs;5;0
+z_assessor_2409;Plural Voting and Identity for DAOs;5;0
+z_assessor_2795;Plural Voting and Identity for DAOs;5;0
+z_assessor_2836;Plural Voting and Identity for DAOs;5;0
+z_assessor_3045;Plural Voting and Identity for DAOs;5;0
+z_assessor_3138;Plural Voting and Identity for DAOs;5;0
+z_assessor_3287;Plural Voting and Identity for DAOs;5;0
+z_assessor_3401;Plural Voting and Identity for DAOs;5;0
+z_assessor_2274;Legal & Financial Consulting Hub;5;0
+z_assessor_2371;Legal & Financial Consulting Hub;4;0
+z_assessor_2631;Legal & Financial Consulting Hub;3;1
+z_assessor_2879;Legal & Financial Consulting Hub;5;0
+z_assessor_2915;Legal & Financial Consulting Hub;5;0
+z_assessor_3008;Legal & Financial Consulting Hub;5;0
+z_assessor_3016;Legal & Financial Consulting Hub;5;0
+z_assessor_3073;Legal & Financial Consulting Hub;3;1
+z_assessor_3183;Legal & Financial Consulting Hub;4;0
+z_assessor_3367;Legal & Financial Consulting Hub;4;0
+z_assessor_3420;Legal & Financial Consulting Hub;5;0
+z_assessor_3514;Legal & Financial Consulting Hub;3;1
+z_assessor_3950;Legal & Financial Consulting Hub;4;0
+z_assessor_2274;Buy food & make an impact;5;1
+z_assessor_2479;Buy food & make an impact;4;1
+z_assessor_2732;Buy food & make an impact;5;1
+z_assessor_2757;Buy food & make an impact;5;1
+z_assessor_2771;Buy food & make an impact;5;1
+z_assessor_2976;Buy food & make an impact;5;1
+z_assessor_3046;Buy food & make an impact;4;1
+z_assessor_3329;Buy food & make an impact;5;1
+z_assessor_3362;Buy food & make an impact;5;1
+z_assessor_3870;Buy food & make an impact;5;1
+z_assessor_2277;Lucid - Developing the Easy Way;5;1
+z_assessor_2380;Lucid - Developing the Easy Way;5;1
+z_assessor_2463;Lucid - Developing the Easy Way;3;0
+z_assessor_2662;Lucid - Developing the Easy Way;5;1
+z_assessor_2906;Lucid - Developing the Easy Way;4;1
+z_assessor_2907;Lucid - Developing the Easy Way;5;1
+z_assessor_2996;Lucid - Developing the Easy Way;5;1
+z_assessor_3202;Lucid - Developing the Easy Way;5;1
+z_assessor_3833;Lucid - Developing the Easy Way;5;1
+z_assessor_4099;Lucid - Developing the Easy Way;4;1
+z_assessor_2280;MLabs - Cardano DApp Schemas;4;1
+z_assessor_2687;MLabs - Cardano DApp Schemas;5;1
+z_assessor_2824;MLabs - Cardano DApp Schemas;5;1
+z_assessor_2142;MLabs - Cardano DApp Schemas;5;1
+z_assessor_2299;MLabs - Cardano DApp Schemas;5;1
+z_assessor_2290;Smart Contract Audit projectNEWM;3;1
+z_assessor_2525;Smart Contract Audit projectNEWM;4;0
+z_assessor_2817;Smart Contract Audit projectNEWM;4;0
+z_assessor_2824;Smart Contract Audit projectNEWM;4;0
+z_assessor_2907;Smart Contract Audit projectNEWM;3;1
+z_assessor_2290;WalletConnect for Cardano;5;1
+z_assessor_2324;WalletConnect for Cardano;4;1
+z_assessor_2335;WalletConnect for Cardano;4;1
+z_assessor_2358;WalletConnect for Cardano;2;0
+z_assessor_2482;WalletConnect for Cardano;3;0
+z_assessor_2736;WalletConnect for Cardano;4;1
+z_assessor_2795;WalletConnect for Cardano;2;0
+z_assessor_2826;WalletConnect for Cardano;4;1
+z_assessor_2878;WalletConnect for Cardano;4;1
+z_assessor_2292;Governance Services Guild tools;5;1
+z_assessor_2360;Governance Services Guild tools;5;1
+z_assessor_2468;Governance Services Guild tools;4;1
+z_assessor_2888;Governance Services Guild tools;5;1
+z_assessor_3016;Governance Services Guild tools;5;1
+z_assessor_3362;Governance Services Guild tools;5;1
+z_assessor_2292;ADAO: Comprehensive DAO's Course;4;0
+z_assessor_2358;ADAO: Comprehensive DAO's Course;4;0
+z_assessor_2525;ADAO: Comprehensive DAO's Course;4;0
+z_assessor_2664;ADAO: Comprehensive DAO's Course;5;0
+z_assessor_2835;ADAO: Comprehensive DAO's Course;4;0
+z_assessor_3472;ADAO: Comprehensive DAO's Course;5;0
+z_assessor_3727;ADAO: Comprehensive DAO's Course;5;0
+z_assessor_2298;CNFT Alliance: Japanese Community!;3;0
+z_assessor_2306;CNFT Alliance: Japanese Community!;4;1
+z_assessor_3270;CNFT Alliance: Japanese Community!;5;1
+z_assessor_2219;CNFT Alliance: Japanese Community!;5;1
+z_assessor_2398;CNFT Alliance: Japanese Community!;1;0
+z_assessor_2222;CNFT Alliance: Japanese Community!;2;0
+z_assessor_2048;CNFT Alliance: Japanese Community!;2;0
+z_assessor_2299;Cardano Peer Education;5;1
+z_assessor_2312;Cardano Peer Education;4;1
+z_assessor_2483;Cardano Peer Education;5;1
+z_assessor_2616;Cardano Peer Education;5;1
+z_assessor_2631;Cardano Peer Education;5;1
+z_assessor_2636;Cardano Peer Education;4;1
+z_assessor_2671;Cardano Peer Education;5;1
+z_assessor_2703;Cardano Peer Education;5;1
+z_assessor_2704;Cardano Peer Education;5;1
+z_assessor_2734;Cardano Peer Education;5;1
+z_assessor_2869;Cardano Peer Education;5;1
+z_assessor_2890;Cardano Peer Education;4;1
+z_assessor_2906;Cardano Peer Education;5;1
+z_assessor_2908;Cardano Peer Education;4;1
+z_assessor_2915;Cardano Peer Education;5;1
+z_assessor_2916;Cardano Peer Education;4;1
+z_assessor_2924;Cardano Peer Education;5;1
+z_assessor_3008;Cardano Peer Education;5;1
+z_assessor_3124;Cardano Peer Education;5;1
+z_assessor_3171;Cardano Peer Education;4;1
+z_assessor_3230;Cardano Peer Education;5;1
+z_assessor_3279;Cardano Peer Education;4;1
+z_assessor_3281;Cardano Peer Education;3;0
+z_assessor_3284;Cardano Peer Education;5;1
+z_assessor_3319;Cardano Peer Education;5;1
+z_assessor_3353;Cardano Peer Education;4;1
+z_assessor_3362;Cardano Peer Education;4;1
+z_assessor_3371;Cardano Peer Education;4;1
+z_assessor_3378;Cardano Peer Education;3;0
+z_assessor_3438;Cardano Peer Education;5;1
+z_assessor_3521;Cardano Peer Education;5;1
+z_assessor_3616;Cardano Peer Education;4;1
+z_assessor_3624;Cardano Peer Education;5;1
+z_assessor_3648;Cardano Peer Education;5;1
+z_assessor_3759;Cardano Peer Education;5;1
+z_assessor_2299;UPDEV CHALLENGE;5;1
+z_assessor_2458;UPDEV CHALLENGE;5;1
+z_assessor_2462;UPDEV CHALLENGE;4;1
+z_assessor_2924;UPDEV CHALLENGE;1;0
+z_assessor_2984;UPDEV CHALLENGE;4;1
+z_assessor_3008;UPDEV CHALLENGE;5;1
+z_assessor_3319;UPDEV CHALLENGE;5;1
+z_assessor_3617;UPDEV CHALLENGE;5;1
+z_assessor_3624;UPDEV CHALLENGE;5;1
+z_assessor_3648;UPDEV CHALLENGE;5;1
+z_assessor_2299;ALOHA for Cardano;2;0
+z_assessor_2404;ALOHA for Cardano;5;1
+z_assessor_2616;ALOHA for Cardano;5;1
+z_assessor_2734;ALOHA for Cardano;4;1
+z_assessor_2996;ALOHA for Cardano;5;1
+z_assessor_3008;ALOHA for Cardano;5;1
+z_assessor_3078;ALOHA for Cardano;4;1
+z_assessor_3106;ALOHA for Cardano;4;1
+z_assessor_3216;ALOHA for Cardano;5;1
+z_assessor_3256;ALOHA for Cardano;4;1
+z_assessor_3362;ALOHA for Cardano;4;1
+z_assessor_4102;ALOHA for Cardano;4;1
+z_assessor_2299;Login with Cardano Wallet - cAuth;5;0
+z_assessor_2317;Login with Cardano Wallet - cAuth;5;0
+z_assessor_3408;Login with Cardano Wallet - cAuth;5;0
+z_assessor_2336;Login with Cardano Wallet - cAuth;4;0
+z_assessor_2306;Cardano for Africa;4;1
+z_assessor_2466;Cardano for Africa;4;1
+z_assessor_2856;Cardano for Africa;4;1
+z_assessor_2916;Cardano for Africa;4;1
+z_assessor_3241;Cardano for Africa;5;1
+z_assessor_3273;Cardano for Africa;4;1
+z_assessor_3284;Cardano for Africa;4;1
+z_assessor_3378;Cardano for Africa;4;1
+z_assessor_3438;Cardano for Africa;5;1
+z_assessor_3445;Cardano for Africa;3;0
+z_assessor_2306;RemoStart: Africa Job Shadowing;5;1
+z_assessor_2754;RemoStart: Africa Job Shadowing;5;1
+z_assessor_2786;RemoStart: Africa Job Shadowing;5;1
+z_assessor_2908;RemoStart: Africa Job Shadowing;4;1
+z_assessor_3264;RemoStart: Africa Job Shadowing;5;1
+z_assessor_4093;RemoStart: Africa Job Shadowing;4;1
+z_assessor_2307;PRISM analytics platform;5;0
+z_assessor_2352;PRISM analytics platform;5;0
+z_assessor_2688;PRISM analytics platform;5;0
+z_assessor_2902;PRISM analytics platform;5;0
+z_assessor_2255;PRISM analytics platform;5;0
+z_assessor_2142;PRISM analytics platform;5;0
+z_assessor_2312;Onboarding East Asia Today;5;1
+z_assessor_2483;Onboarding East Asia Today;5;1
+z_assessor_2985;Onboarding East Asia Today;5;1
+z_assessor_3008;Onboarding East Asia Today;5;1
+z_assessor_3031;Onboarding East Asia Today;5;1
+z_assessor_3213;Onboarding East Asia Today;5;1
+z_assessor_3270;Onboarding East Asia Today;5;1
+z_assessor_3449;Onboarding East Asia Today;5;1
+z_assessor_3764;Onboarding East Asia Today;4;1
+z_assessor_4061;Onboarding East Asia Today;5;1
+z_assessor_2312;ADATOMS Science & DeFi FREE Ed.;3;0
+z_assessor_2465;ADATOMS Science & DeFi FREE Ed.;3;0
+z_assessor_2496;ADATOMS Science & DeFi FREE Ed.;5;1
+z_assessor_2564;ADATOMS Science & DeFi FREE Ed.;5;1
+z_assessor_3016;ADATOMS Science & DeFi FREE Ed.;5;1
+z_assessor_3449;ADATOMS Science & DeFi FREE Ed.;5;1
+z_assessor_2312;projectNEWM Marketplace Creation;3;1
+z_assessor_2525;projectNEWM Marketplace Creation;5;0
+z_assessor_2922;projectNEWM Marketplace Creation;4;0
+z_assessor_3096;projectNEWM Marketplace Creation;4;0
+z_assessor_3233;projectNEWM Marketplace Creation;1;1
+z_assessor_2318;Eastern Hemisphere dRep TownHall;5;0
+z_assessor_2669;Eastern Hemisphere dRep TownHall;4;0
+z_assessor_2734;Eastern Hemisphere dRep TownHall;5;0
+z_assessor_2963;Eastern Hemisphere dRep TownHall;5;0
+z_assessor_3008;Eastern Hemisphere dRep TownHall;4;0
+z_assessor_3065;Eastern Hemisphere dRep TownHall;5;0
+z_assessor_3213;Eastern Hemisphere dRep TownHall;5;0
+z_assessor_2324;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_2771;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_2922;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_3192;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_3264;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_3497;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_3870;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_3900;Learn to Earn Cardano Ecosystem;5;1
+z_assessor_2327;DCOne Crypto;5;1
+z_assessor_2552;DCOne Crypto;4;1
+z_assessor_2922;DCOne Crypto;5;1
+z_assessor_3183;DCOne Crypto;4;1
+z_assessor_3445;DCOne Crypto;4;1
+z_assessor_2335;Milkomeda Game #2;3;0
+z_assessor_2482;Milkomeda Game #2;3;0
+z_assessor_2675;Milkomeda Game #2;2;0
+z_assessor_2826;Milkomeda Game #2;3;0
+z_assessor_2878;Milkomeda Game #2;2;0
+z_assessor_2922;Milkomeda Game #2;4;1
+z_assessor_3096;Milkomeda Game #2;5;1
+z_assessor_3144;Milkomeda Game #2;4;1
+z_assessor_2335;Milkomeda Djed;4;1
+z_assessor_2504;Milkomeda Djed;3;0
+z_assessor_2675;Milkomeda Djed;2;0
+z_assessor_2826;Milkomeda Djed;5;1
+z_assessor_2142;Milkomeda Djed;5;1
+z_assessor_2048;Milkomeda Djed;2;0
+z_assessor_4129;Milkomeda Djed;4;1
+z_assessor_2219;Milkomeda Djed;5;1
+z_assessor_2352;Ouroboros network (NtC) in Golang;5;1
+z_assessor_2979;Ouroboros network (NtC) in Golang;5;1
+z_assessor_2984;Ouroboros network (NtC) in Golang;4;1
+z_assessor_3244;Ouroboros network (NtC) in Golang;4;1
+z_assessor_4113;Ouroboros network (NtC) in Golang;4;1
+z_assessor_2352;Cardano Submit API in Golang;5;1
+z_assessor_2878;Cardano Submit API in Golang;5;1
+z_assessor_2997;Cardano Submit API in Golang;3;0
+z_assessor_4055;Cardano Submit API in Golang;3;0
+z_assessor_4073;Cardano Submit API in Golang;4;1
+z_assessor_2352;Mainline Evangelist dApp;3;0
+z_assessor_2824;Mainline Evangelist dApp;3;0
+z_assessor_2940;Mainline Evangelist dApp;2;0
+z_assessor_2966;Mainline Evangelist dApp;3;0
+z_assessor_2997;Mainline Evangelist dApp;2;0
+z_assessor_3063;Mainline Evangelist dApp;1;0
+z_assessor_4076;Mainline Evangelist dApp;2;0
+z_assessor_2352;littlefish - Tools of DAO Work;5;1
+z_assessor_2618;littlefish - Tools of DAO Work;5;1
+z_assessor_2824;littlefish - Tools of DAO Work;5;1
+z_assessor_3138;littlefish - Tools of DAO Work;4;1
+z_assessor_2259;littlefish - Tools of DAO Work;5;1
+z_assessor_2436;littlefish - Tools of DAO Work;5;1
+z_assessor_2257;littlefish - Tools of DAO Work;5;1
+z_assessor_2461;littlefish - Tools of DAO Work;5;1
+z_assessor_2352;ADAO Open Source Development;4;1
+z_assessor_2358;ADAO Open Source Development;5;1
+z_assessor_2835;ADAO Open Source Development;4;1
+z_assessor_2856;ADAO Open Source Development;4;1
+z_assessor_3472;ADAO Open Source Development;5;1
+z_assessor_3803;ADAO Open Source Development;3;0
+z_assessor_2362;Kogmios Open Source Doc/Dev/Support;5;1
+z_assessor_2436;Kogmios Open Source Doc/Dev/Support;3;0
+z_assessor_2463;Kogmios Open Source Doc/Dev/Support;3;0
+z_assessor_2922;Kogmios Open Source Doc/Dev/Support;5;1
+z_assessor_2996;Kogmios Open Source Doc/Dev/Support;3;0
+z_assessor_3096;Kogmios Open Source Doc/Dev/Support;4;1
+z_assessor_3994;Kogmios Open Source Doc/Dev/Support;5;1
+z_assessor_2365;littlefish - Law and the New Order;4;1
+z_assessor_2671;littlefish - Law and the New Order;5;1
+z_assessor_2786;littlefish - Law and the New Order;5;1
+z_assessor_2822;littlefish - Law and the New Order;4;1
+z_assessor_2824;littlefish - Law and the New Order;4;1
+z_assessor_2879;littlefish - Law and the New Order;5;1
+z_assessor_3016;littlefish - Law and the New Order;5;1
+z_assessor_2394;Decentralized Escrow for Remote Job;5;1
+z_assessor_2578;Decentralized Escrow for Remote Job;5;1
+z_assessor_2771;Decentralized Escrow for Remote Job;5;1
+z_assessor_3870;Decentralized Escrow for Remote Job;5;1
+z_assessor_4072;Decentralized Escrow for Remote Job;5;1
+z_assessor_2397;Cardano Forest - blocktree.asia;5;1
+z_assessor_2476;Cardano Forest - blocktree.asia;5;1
+z_assessor_2552;Cardano Forest - blocktree.asia;4;1
+z_assessor_2622;Cardano Forest - blocktree.asia;5;1
+z_assessor_2732;Cardano Forest - blocktree.asia;5;1
+z_assessor_2943;Cardano Forest - blocktree.asia;5;1
+z_assessor_2989;Cardano Forest - blocktree.asia;5;1
+z_assessor_2997;Cardano Forest - blocktree.asia;4;1
+z_assessor_3144;Cardano Forest - blocktree.asia;5;1
+z_assessor_3246;Cardano Forest - blocktree.asia;5;1
+z_assessor_3321;Cardano Forest - blocktree.asia;5;1
+z_assessor_3445;Cardano Forest - blocktree.asia;5;1
+z_assessor_3497;Cardano Forest - blocktree.asia;5;1
+z_assessor_4055;Cardano Forest - blocktree.asia;5;1
+z_assessor_2397;Marketing Training for African SPOs;5;1
+z_assessor_2458;Marketing Training for African SPOs;5;1
+z_assessor_2678;Marketing Training for African SPOs;3;0
+z_assessor_2817;Marketing Training for African SPOs;4;1
+z_assessor_3035;Marketing Training for African SPOs;4;1
+z_assessor_2403;Open dApp Framework;5;0
+z_assessor_2496;Open dApp Framework;5;0
+z_assessor_2817;Open dApp Framework;5;0
+z_assessor_2911;Open dApp Framework;5;0
+z_assessor_2404;Mini Proposal Workshops;5;1
+z_assessor_2462;Mini Proposal Workshops;3;0
+z_assessor_2504;Mini Proposal Workshops;5;1
+z_assessor_2517;Mini Proposal Workshops;5;1
+z_assessor_2616;Mini Proposal Workshops;5;1
+z_assessor_2631;Mini Proposal Workshops;5;1
+z_assessor_2734;Mini Proposal Workshops;4;1
+z_assessor_2878;Mini Proposal Workshops;4;1
+z_assessor_2890;Mini Proposal Workshops;3;0
+z_assessor_2906;Mini Proposal Workshops;4;1
+z_assessor_2908;Mini Proposal Workshops;5;1
+z_assessor_2924;Mini Proposal Workshops;5;1
+z_assessor_3008;Mini Proposal Workshops;5;1
+z_assessor_3059;Mini Proposal Workshops;4;1
+z_assessor_3106;Mini Proposal Workshops;5;1
+z_assessor_3165;Mini Proposal Workshops;4;1
+z_assessor_3216;Mini Proposal Workshops;5;1
+z_assessor_3312;Mini Proposal Workshops;4;1
+z_assessor_3338;Mini Proposal Workshops;4;1
+z_assessor_3352;Mini Proposal Workshops;4;1
+z_assessor_3361;Mini Proposal Workshops;4;1
+z_assessor_3362;Mini Proposal Workshops;5;1
+z_assessor_3438;Mini Proposal Workshops;4;1
+z_assessor_2419;ADA Bug Bounty Website;3;0
+z_assessor_2675;ADA Bug Bounty Website;5;1
+z_assessor_2878;ADA Bug Bounty Website;5;1
+z_assessor_3023;ADA Bug Bounty Website;4;1
+z_assessor_3408;ADA Bug Bounty Website;5;1
+z_assessor_3422;ADA Bug Bounty Website;5;1
+z_assessor_4118;ADA Bug Bounty Website;5;1
+z_assessor_2450;Wolfram Cardano Ent. Private Cloud;3;0
+z_assessor_2675;Wolfram Cardano Ent. Private Cloud;4;1
+z_assessor_2736;Wolfram Cardano Ent. Private Cloud;4;1
+z_assessor_2956;Wolfram Cardano Ent. Private Cloud;3;0
+z_assessor_3138;Wolfram Cardano Ent. Private Cloud;5;1
+z_assessor_4099;Wolfram Cardano Ent. Private Cloud;3;0
+z_assessor_4109;Wolfram Cardano Ent. Private Cloud;2;0
+z_assessor_2458;Cardano for STEM Brazilian students;4;1
+z_assessor_2462;Cardano for STEM Brazilian students;2;0
+z_assessor_2483;Cardano for STEM Brazilian students;4;1
+z_assessor_2616;Cardano for STEM Brazilian students;5;1
+z_assessor_2631;Cardano for STEM Brazilian students;4;1
+z_assessor_2636;Cardano for STEM Brazilian students;4;1
+z_assessor_2749;Cardano for STEM Brazilian students;5;1
+z_assessor_2878;Cardano for STEM Brazilian students;4;1
+z_assessor_2906;Cardano for STEM Brazilian students;5;1
+z_assessor_2908;Cardano for STEM Brazilian students;5;1
+z_assessor_2916;Cardano for STEM Brazilian students;5;1
+z_assessor_2940;Cardano for STEM Brazilian students;4;1
+z_assessor_2971;Cardano for STEM Brazilian students;4;1
+z_assessor_2976;Cardano for STEM Brazilian students;3;0
+z_assessor_3008;Cardano for STEM Brazilian students;5;1
+z_assessor_3079;Cardano for STEM Brazilian students;5;1
+z_assessor_3165;Cardano for STEM Brazilian students;3;0
+z_assessor_3216;Cardano for STEM Brazilian students;5;1
+z_assessor_3230;Cardano for STEM Brazilian students;5;1
+z_assessor_3233;Cardano for STEM Brazilian students;5;1
+z_assessor_3237;Cardano for STEM Brazilian students;5;1
+z_assessor_3362;Cardano for STEM Brazilian students;4;1
+z_assessor_3438;Cardano for STEM Brazilian students;5;1
+z_assessor_3521;Cardano for STEM Brazilian students;4;1
+z_assessor_3617;Cardano for STEM Brazilian students;5;1
+z_assessor_3648;Cardano for STEM Brazilian students;5;1
+z_assessor_3768;Cardano for STEM Brazilian students;2;0
+z_assessor_2461;Eastern Town Hall Team Operation;5;1
+z_assessor_2464;Eastern Town Hall Team Operation;5;1
+z_assessor_2483;Eastern Town Hall Team Operation;5;1
+z_assessor_2553;Eastern Town Hall Team Operation;4;1
+z_assessor_2856;Eastern Town Hall Team Operation;4;1
+z_assessor_3008;Eastern Town Hall Team Operation;5;1
+z_assessor_3021;Eastern Town Hall Team Operation;5;1
+z_assessor_3093;Eastern Town Hall Team Operation;4;1
+z_assessor_3196;Eastern Town Hall Team Operation;5;1
+z_assessor_3213;Eastern Town Hall Team Operation;5;1
+z_assessor_3270;Eastern Town Hall Team Operation;5;1
+z_assessor_3296;Eastern Town Hall Team Operation;3;0
+z_assessor_3762;Eastern Town Hall Team Operation;5;1
+z_assessor_3764;Eastern Town Hall Team Operation;5;1
+z_assessor_3902;Eastern Town Hall Team Operation;5;1
+z_assessor_4061;Eastern Town Hall Team Operation;5;1
+z_assessor_2461;Cardano Start Guide;5;0
+z_assessor_2704;Cardano Start Guide;5;0
+z_assessor_2775;Cardano Start Guide;5;0
+z_assessor_2817;Cardano Start Guide;5;0
+z_assessor_2935;Cardano Start Guide;1;1
+z_assessor_3320;Cardano Start Guide;4;0
+z_assessor_3470;Cardano Start Guide;3;1
+z_assessor_2463;ADAO - RoundTable v2: Staking +;4;1
+z_assessor_2465;ADAO - RoundTable v2: Staking +;4;1
+z_assessor_2684;ADAO - RoundTable v2: Staking +;4;1
+z_assessor_2907;ADAO - RoundTable v2: Staking +;4;1
+z_assessor_3650;ADAO - RoundTable v2: Staking +;4;1
+z_assessor_2464;Service Marketplace for Japan, VN;4;1
+z_assessor_2483;Service Marketplace for Japan, VN;5;1
+z_assessor_2552;Service Marketplace for Japan, VN;4;1
+z_assessor_2630;Service Marketplace for Japan, VN;4;1
+z_assessor_2678;Service Marketplace for Japan, VN;5;1
+z_assessor_2732;Service Marketplace for Japan, VN;4;1
+z_assessor_2771;Service Marketplace for Japan, VN;5;1
+z_assessor_2924;Service Marketplace for Japan, VN;5;1
+z_assessor_2984;Service Marketplace for Japan, VN;5;1
+z_assessor_2985;Service Marketplace for Japan, VN;5;1
+z_assessor_3008;Service Marketplace for Japan, VN;4;1
+z_assessor_3021;Service Marketplace for Japan, VN;5;1
+z_assessor_3049;Service Marketplace for Japan, VN;5;1
+z_assessor_3052;Service Marketplace for Japan, VN;5;1
+z_assessor_3093;Service Marketplace for Japan, VN;4;1
+z_assessor_3119;Service Marketplace for Japan, VN;4;1
+z_assessor_3160;Service Marketplace for Japan, VN;4;1
+z_assessor_3196;Service Marketplace for Japan, VN;5;1
+z_assessor_3225;Service Marketplace for Japan, VN;4;1
+z_assessor_3279;Service Marketplace for Japan, VN;4;1
+z_assessor_3281;Service Marketplace for Japan, VN;4;1
+z_assessor_3368;Service Marketplace for Japan, VN;4;1
+z_assessor_3582;Service Marketplace for Japan, VN;5;1
+z_assessor_3870;Service Marketplace for Japan, VN;5;1
+z_assessor_4025;Service Marketplace for Japan, VN;4;1
+z_assessor_2464;Vcoincheck Library (Phase 2);5;1
+z_assessor_2483;Vcoincheck Library (Phase 2);5;1
+z_assessor_2622;Vcoincheck Library (Phase 2);5;1
+z_assessor_2678;Vcoincheck Library (Phase 2);5;1
+z_assessor_2759;Vcoincheck Library (Phase 2);5;1
+z_assessor_2771;Vcoincheck Library (Phase 2);5;1
+z_assessor_3008;Vcoincheck Library (Phase 2);4;1
+z_assessor_3196;Vcoincheck Library (Phase 2);5;1
+z_assessor_3216;Vcoincheck Library (Phase 2);5;1
+z_assessor_3235;Vcoincheck Library (Phase 2);5;1
+z_assessor_3246;Vcoincheck Library (Phase 2);5;1
+z_assessor_3449;Vcoincheck Library (Phase 2);5;1
+z_assessor_3494;Vcoincheck Library (Phase 2);5;1
+z_assessor_3793;Vcoincheck Library (Phase 2);5;1
+z_assessor_3870;Vcoincheck Library (Phase 2);5;1
+z_assessor_2482;Funding Categories Analysis;5;1
+z_assessor_3217;Funding Categories Analysis;5;1
+z_assessor_2259;Funding Categories Analysis;5;1
+z_assessor_2048;Funding Categories Analysis;4;1
+z_assessor_2142;Funding Categories Analysis;5;1
+z_assessor_2483;MLabs - CTL Blockfrost Backend;4;1
+z_assessor_2513;MLabs - CTL Blockfrost Backend;4;1
+z_assessor_2713;MLabs - CTL Blockfrost Backend;4;1
+z_assessor_2873;MLabs - CTL Blockfrost Backend;5;1
+z_assessor_3250;MLabs - CTL Blockfrost Backend;5;1
+z_assessor_3491;MLabs - CTL Blockfrost Backend;5;1
+z_assessor_2513;L-Earning Bazaar: Platform Building;5;1
+z_assessor_3264;L-Earning Bazaar: Platform Building;5;1
+z_assessor_2257;L-Earning Bazaar: Platform Building;5;1
+z_assessor_2142;L-Earning Bazaar: Platform Building;5;1
+z_assessor_2463;L-Earning Bazaar: Platform Building;4;1
+z_assessor_2578;L-Earning Bazaar: Platform Building;5;1
+z_assessor_2525;Real Estate Rental Marketplace;4;0
+z_assessor_2831;Real Estate Rental Marketplace;3;1
+z_assessor_2869;Real Estate Rental Marketplace;5;0
+z_assessor_2974;Real Estate Rental Marketplace;5;0
+z_assessor_2992;Real Estate Rental Marketplace;4;0
+z_assessor_2996;Real Estate Rental Marketplace;3;1
+z_assessor_3367;Real Estate Rental Marketplace;4;0
+z_assessor_4076;Real Estate Rental Marketplace;3;1
+z_assessor_4098;Real Estate Rental Marketplace;3;1
+z_assessor_2552;MCA: A Model School in SA - Part II;4;1
+z_assessor_2908;MCA: A Model School in SA - Part II;5;1
+z_assessor_3153;MCA: A Model School in SA - Part II;5;1
+z_assessor_3161;MCA: A Model School in SA - Part II;5;1
+z_assessor_3243;MCA: A Model School in SA - Part II;5;1
+z_assessor_2564;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_2817;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_2935;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_2989;Cardano 101 Course - Kaizen Crypto;4;0
+z_assessor_2997;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_3063;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_3068;Cardano 101 Course - Kaizen Crypto;5;0
+z_assessor_4098;Cardano 101 Course - Kaizen Crypto;3;1
+z_assessor_2618;Atala Integration with Milkomeda;5;1
+z_assessor_2786;Atala Integration with Milkomeda;5;1
+z_assessor_2911;Atala Integration with Milkomeda;5;1
+z_assessor_3473;Atala Integration with Milkomeda;4;1
+z_assessor_3650;Atala Integration with Milkomeda;5;1
+z_assessor_2622;Haskell Book Vietnamese Translation;5;1
+z_assessor_2720;Haskell Book Vietnamese Translation;5;1
+z_assessor_2732;Haskell Book Vietnamese Translation;4;1
+z_assessor_2764;Haskell Book Vietnamese Translation;5;1
+z_assessor_2771;Haskell Book Vietnamese Translation;5;1
+z_assessor_2985;Haskell Book Vietnamese Translation;4;1
+z_assessor_2996;Haskell Book Vietnamese Translation;5;1
+z_assessor_3008;Haskell Book Vietnamese Translation;5;1
+z_assessor_3021;Haskell Book Vietnamese Translation;5;1
+z_assessor_3046;Haskell Book Vietnamese Translation;5;1
+z_assessor_3216;Haskell Book Vietnamese Translation;5;1
+z_assessor_3750;Haskell Book Vietnamese Translation;4;1
+z_assessor_3870;Haskell Book Vietnamese Translation;5;1
+z_assessor_4100;Haskell Book Vietnamese Translation;5;1
+z_assessor_4101;Haskell Book Vietnamese Translation;5;1
+z_assessor_2671;Onboarded companies playbook;4;1
+z_assessor_3008;Onboarded companies playbook;5;1
+z_assessor_3016;Onboarded companies playbook;5;1
+z_assessor_3521;Onboarded companies playbook;5;1
+z_assessor_4055;Onboarded companies playbook;4;1
+z_assessor_2687;NFT Job Board;4;0
+z_assessor_2704;NFT Job Board;4;0
+z_assessor_2729;NFT Job Board;3;1
+z_assessor_2771;NFT Job Board;4;0
+z_assessor_2817;NFT Job Board;5;0
+z_assessor_2899;NFT Job Board;4;0
+z_assessor_2935;NFT Job Board;5;0
+z_assessor_3915;NFT Job Board;5;0
+z_assessor_2691;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_2779;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_2784;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_3445;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_4091;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_4105;ADABET.iO | Cardano Betting DApp;5;1
+z_assessor_2695;Cardano DAO Dashboard;5;0
+z_assessor_2817;Cardano DAO Dashboard;4;0
+z_assessor_2826;Cardano DAO Dashboard;4;0
+z_assessor_3008;Cardano DAO Dashboard;5;0
+z_assessor_3521;Cardano DAO Dashboard;5;0
+z_assessor_2749;Opportunity Summit;5;1
+z_assessor_2786;Opportunity Summit;5;1
+z_assessor_2890;Opportunity Summit;4;1
+z_assessor_2908;Opportunity Summit;4;1
+z_assessor_2927;Opportunity Summit;5;1
+z_assessor_3008;Opportunity Summit;5;1
+z_assessor_3224;Opportunity Summit;3;0
+z_assessor_3265;Opportunity Summit;5;1
+z_assessor_3411;Opportunity Summit;5;1
+z_assessor_3696;Opportunity Summit;4;1
+z_assessor_3833;Opportunity Summit;4;1
+z_assessor_2771;L-Earning Bazaar: Web3 Integration;5;1
+z_assessor_3264;L-Earning Bazaar: Web3 Integration;5;1
+z_assessor_3312;L-Earning Bazaar: Web3 Integration;5;1
+z_assessor_3870;L-Earning Bazaar: Web3 Integration;5;1
+z_assessor_2436;L-Earning Bazaar: Web3 Integration;3;0
+z_assessor_2786;Gateway of blockchain-Learn to earn;4;1
+z_assessor_3696;Gateway of blockchain-Learn to earn;4;1
+z_assessor_2259;Gateway of blockchain-Learn to earn;5;1
+z_assessor_2578;Gateway of blockchain-Learn to earn;5;1
+z_assessor_2192;Gateway of blockchain-Learn to earn;5;1
+z_assessor_2332;Gateway of blockchain-Learn to earn;4;1
+z_assessor_2631;Gateway of blockchain-Learn to earn;3;0
+z_assessor_2811;Clarity DAO Infrastructure;5;1
+z_assessor_2856;Clarity DAO Infrastructure;4;1
+z_assessor_3138;Clarity DAO Infrastructure;5;1
+z_assessor_3246;Clarity DAO Infrastructure;4;1
+z_assessor_3395;Clarity DAO Infrastructure;5;1
+z_assessor_3616;Clarity DAO Infrastructure;4;1
+z_assessor_2817;Catalyst Research & Voter Tool;5;1
+z_assessor_2883;Catalyst Research & Voter Tool;5;1
+z_assessor_3204;Catalyst Research & Voter Tool;5;1
+z_assessor_3289;Catalyst Research & Voter Tool;4;1
+z_assessor_2142;Catalyst Research & Voter Tool;5;1
+z_assessor_2824;littlefish - Ikigai in Community;5;0
+z_assessor_3138;littlefish - Ikigai in Community;5;0
+z_assessor_2257;littlefish - Ikigai in Community;5;0
+z_assessor_2578;littlefish - Ikigai in Community;5;0
+z_assessor_2824;Wallet Dapp Connector Integration;5;1
+z_assessor_2922;Wallet Dapp Connector Integration;3;0
+z_assessor_3088;Wallet Dapp Connector Integration;5;1
+z_assessor_3096;Wallet Dapp Connector Integration;4;1
+z_assessor_3233;Wallet Dapp Connector Integration;4;1
+z_assessor_3988;Wallet Dapp Connector Integration;3;0
+z_assessor_2835;ADAO - Plutus Token Vesting DApp;4;0
+z_assessor_2883;ADAO - Plutus Token Vesting DApp;5;0
+z_assessor_2945;ADAO - Plutus Token Vesting DApp;3;1
+z_assessor_2142;ADAO - Plutus Token Vesting DApp;5;0
+z_assessor_2525;ADAO - Plutus Token Vesting DApp;4;0
+z_assessor_2879;Blueprint for Investment Funds;5;1
+z_assessor_3008;Blueprint for Investment Funds;5;1
+z_assessor_3016;Blueprint for Investment Funds;5;1
+z_assessor_2192;Blueprint for Investment Funds;5;1
+z_assessor_2525;Blueprint for Investment Funds;5;1
+z_assessor_2902;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_2940;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_3087;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_3181;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_3255;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_4045;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_4076;Daedalus Turbo - 10x Quicker Sync;5;0
+z_assessor_2942;Connecting Tabletop Games & Cardano;4;0
+z_assessor_3088;Connecting Tabletop Games & Cardano;4;0
+z_assessor_4060;Connecting Tabletop Games & Cardano;4;0
+z_assessor_2525;Connecting Tabletop Games & Cardano;5;0
