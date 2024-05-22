@@ -73,7 +73,7 @@ Welcome to the Project Catalyst Reputation Scores POC repository. This project a
 1. Create Nodes for projects and reviewers.
 2. Create Edges connecting reviewers to projects reviewed.
 
-### CSV File Structure
+### CSV File Structure (see 'data')
 - **Project Nodes:**
   - `Project Title`, `Overall Feasibility Rating`, `Project Status`
 - **Reviewer Nodes:**
