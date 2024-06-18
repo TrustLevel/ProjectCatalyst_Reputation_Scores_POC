@@ -12,6 +12,8 @@ Welcome to the Project Catalyst Reputation Scores POC repository. This project a
 
 # Milestone 1: Research and Data Analysis
 
+Full Report here: https://docs.google.com/document/d/1zSbcMgSx68jl1zpH9wgluEcpJaoGvVDCrRCakF9rzT8/edit?usp=sharing
+
 ## 1. Comparative Analysis Linking Reviews with Voting Results and Proposal Outcomes
 
 ### Key Findings
