@@ -90,5 +90,13 @@ Full Report here: https://docs.google.com/document/d/1zSbcMgSx68jl1zpH9wgluEcpJa
 - High-Accuracy Reviewers: Identified reviewers with consistent high accuracy.
 - Aggregation Across Rounds: Cross-fund evaluation helps establish long-term accuracy scores.
 
-## Acknowledgments
+# Milestone 2: POC Develoment and Integration
+
+1. Full POC Framework document here: https://docs.google.com/document/d/1zSbcMgSx68jl1zpH9wgluEcpJaoGvVDCrRCakF9rzT8/edit?usp=sharing
+
+2. Integration of reputation scores and batches into the Catalyst Explorer (v2):
+    - Reviewer Profile Page: https://www.catalystexplorer.com/en/ideascale-profiles/g1wbp3jy1r/reviews
+    - Proposal Review Overview Page: https://www.catalystexplorer.com/en/reviews
+  
+# Acknowledgments
 Special thanks to all contributors and the Catalyst community for their valuable data and insights.
