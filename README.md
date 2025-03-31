@@ -4,11 +4,6 @@ https://projectcatalyst.io/funds/11/cardano-use-cases-concept/reputation-scores-
 ## Overview
 Welcome to the Project Catalyst Reputation Scores POC repository. This project aims to conduct a comprehensive analysis of previous funding rounds (up to Fund 10) using data from Catalyst Testnet, Ideascale Platform, Milestone Reporting, Community Reviewing data, and more. The goal is to link reviews with voting results and proposal outcomes and develop a knowledge graph to identify quality reviewers and voters.
 
-## Repository Structure
-- `/data`: Contains the datasets used for analysis.
-- `/scripts`: Python scripts for data processing and analysis.
-- `/reports`: Detailed reports of findings.
-- `/graphs`: Knowledge graph files and network analysis outputs.
 
 # Milestone 1: Research and Data Analysis
 
