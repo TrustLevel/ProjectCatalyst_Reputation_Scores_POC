@@ -93,5 +93,10 @@ Full Report here: https://docs.google.com/document/d/1zSbcMgSx68jl1zpH9wgluEcpJa
     - Reviewer Profile Page: https://www.catalystexplorer.com/en/ideascale-profiles/g1wbp3jy1r/reviews
     - Proposal Review Overview Page: https://www.catalystexplorer.com/en/reviews
   
+# Milestone 3: Community Feedback and Advanced Reputation Framework:
+
+Full Report, including the mathematical foundation of the new REX framework: https://docs.google.com/document/d/1XneKnNcm717duYoGIUvw0iW16z2lXb2Ekq2VYV9-jLY/edit?usp=sharing
+
+  
 # Acknowledgments
 Special thanks to all contributors and the Catalyst community for their valuable data and insights.
