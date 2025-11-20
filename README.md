@@ -1,8 +1,15 @@
-# ProjectCatalyst_Reputation_Scores_POC
+# Reputation Scores for Project Catalyst
+
+- Proposal Link: 
 https://projectcatalyst.io/funds/11/cardano-use-cases-concept/reputation-scores-for-catalyst-proposers-and-reviewers-by-lidonation-and-trustlevel
 
-## Overview
-Welcome to the Project Catalyst Reputation Scores POC repository. This project aims to conduct a comprehensive analysis of previous funding rounds (up to Fund 10) using data from Catalyst Testnet, Ideascale Platform, Milestone Reporting, Community Reviewing data, and more. The goal is to link reviews with voting results and proposal outcomes and develop a knowledge graph to identify quality reviewers and voters.
+
+# Project Summary
+
+- The goal of this project was to explore how Project Catalyst review data can be used to build a reliable and data-driven reputation system for proposers and reviewers and to demonstrate what an improved review framework could look like. 
+- Over the course of Fund 11–13, we designed, built, and refined a Reputation & Expertise (REX) Framework, which mathematically models reviewer reliability and expertise as probabilistic variables. 
+- The concept was then validated through TrustLevel’s Fund 14 Review Tool, allowing us to test the REX methodology with real proposals in a live environment. 
+- This project thus evolved from a theoretical study of historical data to a practical, probabilistic reputation system that enables fairer, more transparent, and more accountable decision-making in decentralized governance.
 
 
 # Milestone 1: Research and Data Analysis
